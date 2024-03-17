@@ -49,12 +49,13 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 - D-Transformer: A Deep Learning Model for Time Series Prediction, **Huyu Wu**, Ruoyu Li, et al. **IPEC 2023**
 
 # 🎖 Honors and Awards
+- *2023.06* Champion, 3rd Youth Campus Volleyball League of Sichuan Province.
 - *2022.11* Second Prize, Asia-Pacific Undergraduate Mathematical Contest in Modeling. 
-- *2021.09* Champion, 3rd Youth Campus Volleyball League of Sichuan Province.
+- *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
 
 # 📖 Educations
 - *2021.09 - now*, College of Computer Science, Artificial Intelligence, Sichuan University
-- *2020.09 - 2021.06*,Business School, Business Administration, Sichuan University
+- *2020.09 - 2021.06*, Business School, Business Administration, Sichuan University
   
 <!--
 # 💬 Invited Talks
