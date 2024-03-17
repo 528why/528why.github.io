@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huyu Wu"
-description              : "WLB"
+description              : "Act at once"
 repository               : "528why/HuyuWu.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github 528why"# e.g., "github username"
+  github           : "528why"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
