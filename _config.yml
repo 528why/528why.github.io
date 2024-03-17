@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Huyu Wu"
 description              : "WLB"
-repository               : "528why.github.io/HuyuWu.github.io/"
+repository               : "528why/HuyuWu.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,21 +23,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huyu Wu"
   avatar           : "images/why.png"
-  bio              : "WLB2"
-  location         : "chengdu, China"
+  bio              : "Sichuan University"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "wuhuyu@stu.scu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "github 528why"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
