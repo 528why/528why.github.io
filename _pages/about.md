@@ -63,7 +63,7 @@ My primary responsibility involves the development and implementation of an adva
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.09 - 2023.12</div><img src='images/SegMxi1.png' alt="sym" width="50%"><img src='images/SegMxi2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.09 - 2023.12</div><img src='images/SegMix1.png' alt="sym" width="50%"><img src='images/SegMix2.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Noisy-Label Driven Weakly-Supervised Semantic Segmentation**      
 In the domain of image classification, the presence of noisy labels is widely acknowledged and has been extensively researched. In the realm of image segmentation, the process of labeling is more time-consuming and prone to errors. Consequently, numerous studies have proposed approaches from a weakly-supervised perspective, suggesting that segmentation tasks can be effectively accomplished with merely bounding box or scribble-level annotations. Such labels are inherently noisy; therefore, it is natural for us to apply the classical concept of noisy labels to the study of image segmentation tasks. We aim to introduce new insights and outcomes to the field by leveraging this approach.
