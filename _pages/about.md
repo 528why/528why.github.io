@@ -54,15 +54,13 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
 
 # 📙 Projects
-**VEX Robotics Competition** <p align="right">*2018.09 - 2019.09*</p>
+**VEX Robotics Competition** <p align="left">*2018.09 - 2019.09*</p>
 Led the school’s VEX Robotics club, responsible for programming and debugging of the robotic systems.  
-
 Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.  
 
   
-**Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies**  <p align="right">*2024.01 - Present*</p>
+**Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies**  <p align="left">*2024.01 - Present*</p>
 Remote participation in a project at the National University of Singapore Institute of Operations Research, which aims to optimize pricing strategies within the tropical fruit supply chain through the utilization of computer vision technology to expand profit margins.   
-
 My primary responsibility involves the development and implementation of an advanced deep learning-based image analysis technique, designed to accurately predict the shelf life of tropical fruits.
 
 # 📖 Educations
