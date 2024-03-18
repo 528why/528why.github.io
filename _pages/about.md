@@ -54,19 +54,27 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
 
 # 📙 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018.09 - 2019.09</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-**VEX Robotics Competition**      
-Led the school’s VEX Robotics club, responsible for programming and debugging of the robotic systems.  
-Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.  
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01 - 2024.03</div><img src='images/fruit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies**   
 Remote participation in a project at the National University of Singapore Institute of Operations Research, which aims to optimize pricing strategies within the tropical fruit supply chain through the utilization of computer vision technology to expand profit margins.   
 My primary responsibility involves the development and implementation of an advanced deep learning-based image analysis technique, designed to accurately predict the shelf life of tropical fruits.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.09 - 2023.12</div><img src='images/SegMxi1.png' alt="sym" width="50%"><img src='images/SegMxi2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Noisy-Label Driven Weakly-Supervised Semantic Segmentation**      
+In the domain of image classification, the presence of noisy labels is widely acknowledged and has been extensively researched. In the realm of image segmentation, the process of labeling is more time-consuming and prone to errors. Consequently, numerous studies have proposed approaches from a weakly-supervised perspective, suggesting that segmentation tasks can be effectively accomplished with merely bounding box or scribble-level annotations. Such labels are inherently noisy; therefore, it is natural for us to apply the classical concept of noisy labels to the study of image segmentation tasks. We aim to introduce new insights and outcomes to the field by leveraging this approach.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018.09 - 2019.09</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+**VEX Robotics Competition**      
+Led the school’s VEX Robotics club, responsible for programming and debugging of the robotic systems.  
+Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.  
 </div>
 </div>
 
