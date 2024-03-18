@@ -64,7 +64,7 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01 - 2024.03</div><img src='images/fruit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies** 
+**Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies**   
 Remote participation in a project at the National University of Singapore Institute of Operations Research, which aims to optimize pricing strategies within the tropical fruit supply chain through the utilization of computer vision technology to expand profit margins.   
 My primary responsibility involves the development and implementation of an advanced deep learning-based image analysis technique, designed to accurately predict the shelf life of tropical fruits.
 </div>
