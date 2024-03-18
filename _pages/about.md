@@ -65,6 +65,7 @@ My primary responsibility involves the development and implementation of an adva
 # 📖 Educations
 - *2021.09 - Present*, College of Computer Science, Artificial Intelligence, Sichuan University
 - *2020.09 - 2021.06*, Business School, Business Administration, Sichuan University
+
 Transferred from Business Administration to Artificial Intelligence. 
 <!--
 # 💬 Invited Talks
