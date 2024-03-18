@@ -54,17 +54,21 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
 
 # 📙 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VEX World Championships 2018</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018.09 - 2019.09</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-**VEX Robotics Competition** <p align="left">*2018.09 - 2019.09*</p>
+**VEX Robotics Competition**      
 Led the school’s VEX Robotics club, responsible for programming and debugging of the robotic systems.  
 Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.  
 </div>
 </div>
-  
-**Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies**  <p align="left">*2024.01 - Present*</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01 - 2024.03</div><img src='images/fruit.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies** 
 Remote participation in a project at the National University of Singapore Institute of Operations Research, which aims to optimize pricing strategies within the tropical fruit supply chain through the utilization of computer vision technology to expand profit margins.   
 My primary responsibility involves the development and implementation of an advanced deep learning-based image analysis technique, designed to accurately predict the shelf life of tropical fruits.
+</div>
+</div>
 
 # 📖 Educations
 - *2021.09 - Present*, College of Computer Science, Artificial Intelligence, Sichuan University
