@@ -54,6 +54,8 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
 
 # 📙 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VEX World Championships 2018</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
 **VEX Robotics Competition** <p align="left">*2018.09 - 2019.09*</p>
 Led the school’s VEX Robotics club, responsible for programming and debugging of the robotic systems.  
 Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.  
