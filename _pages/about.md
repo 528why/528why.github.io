@@ -95,9 +95,8 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 💻 Internships
-- *2023.12 - Present*, Research Assitant of [National University of Singapore - Business School](https://bizfaculty.nus.edu.sg/) 
+- *2023.12 - Present*, Research Assitant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
 <!--
-  Institute of Operations Research and Analytics
   Associate Professor YUAN, Xue-Ming
 -->
 - *2022.11 - Present*, Research Assitant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
