@@ -70,6 +70,14 @@ In the domain of image classification, the presence of noisy labels is widely ac
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07 - 2023.12</div><img src='images/malware.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Improving Few-shot Malware Classification with Multi-modal Supervision**   
+Pioneered the integration of malware binary grayscale images with runtime API call sequencesas multimodal data, significantly improving classification accuracy.  
+Managed the construction of private datasets, implemented classification algorithms, and authored the project proposal.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018.09 - 2019.09</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 **VEX Robotics Competition**      
