@@ -95,5 +95,5 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 💻 Internships
-- *2022.11 - Present*, [Machine Intelligence Lab](https://www.machineilab.org/), Research Assitant of Associate Professor Quan Guo
-- *2023.12 - Present*, [National University of Singapore Institute of Operations Research and Analytics](https://iora.nus.edu.sg/people/faculty/business/), Research Assitant of Associate Professor CHOU, Mabel.
+- *2022.11 - Present*, Research Assitant of [Machine Intelligence Lab](https://www.machineilab.org/) #Associate Professor Quan Guo
+- *2023.12 - Present*, Research Assitant of [National University of Singapore Institute of Operations Research and Analytics](https://iora.nus.edu.sg/people/faculty/business/) # Associate Professor CHOU, Mabel.
