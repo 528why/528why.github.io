@@ -48,10 +48,24 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 - AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification, Wang J, Lin T, **Wu H**, **Electronics**
 - D-Transformer: A Deep Learning Model for Time Series Prediction, **Huyu Wu**, Ruoyu Li, et al. **IPEC 2023**
 
-# 🎖 Honors and Awards
-- *2023.06* Champion, 3rd Youth Campus Volleyball League of Sichuan Province.
-- *2022.11* Second Prize, Asia-Pacific Undergraduate Mathematical Contest in Modeling. 
-- *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
+# 📖 Educations
+- *2021.09 - Present*, College of Computer Science, Artificial Intelligence, Sichuan University
+- *2020.09 - 2021.06*, Business School, Business Administration, Sichuan University
+
+Transferred from Business Administration to Artificial Intelligence. 
+
+
+
+# 💻 Internships
+- *2023.12 - Present*, Research Assitant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
+<!--
+  Associate Professor YUAN, Xue-Ming
+-->
+- *2022.11 - Present*, Research Assitant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
+<!--
+  Associate Professor Quan Guo
+-->
+
 
 # 📙 Projects
 
@@ -86,20 +100,8 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 </div>
 </div>
 
-# 📖 Educations
-- *2021.09 - Present*, College of Computer Science, Artificial Intelligence, Sichuan University
-- *2020.09 - 2021.06*, Business School, Business Administration, Sichuan University
 
-Transferred from Business Administration to Artificial Intelligence. 
-
-
-
-# 💻 Internships
-- *2023.12 - Present*, Research Assitant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
-<!--
-  Associate Professor YUAN, Xue-Ming
--->
-- *2022.11 - Present*, Research Assitant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
-<!--
-  Associate Professor Quan Guo
--->
+# 🎖 Honors and Awards
+- *2023.06* Champion, 3rd Youth Campus Volleyball League of Sichuan Province.
+- *2022.11* Second Prize, Asia-Pacific Undergraduate Mathematical Contest in Modeling. 
+- *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
