@@ -57,11 +57,11 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 💻 Internships
-- *2023.12 - Present*, Research Assitant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
+- *2023.12 - Present*, Research Assistant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
 <!--
   Associate Professor YUAN, Xue-Ming
 -->
-- *2022.11 - Present*, Research Assitant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
+- *2022.11 - Present*, Research Assistant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
 <!--
   Associate Professor Quan Guo
 -->
@@ -104,4 +104,4 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 # 🎖 Honors and Awards
 - *2023.06* Champion, 3rd Youth Campus Volleyball League of Sichuan Province.
 - *2022.11* Second Prize, Asia-Pacific Undergraduate Mathematical Contest in Modeling. 
-- *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province
+- *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province.
