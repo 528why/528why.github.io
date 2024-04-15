@@ -26,7 +26,7 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2024
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by Electronics.
-- *2023.03*: &nbsp;🎉🎉 One paper is accepted by IPEC 2024
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by IPEC 2023
 
 # 📝 Publications 
 
