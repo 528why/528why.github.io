@@ -107,5 +107,5 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province. 
 
 # 📚 Academic Services
-- **Conference Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IJCNN)
+- **Conference Reviewer:** International Joint Conference on Neural Networks(IJCNN)
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS)
