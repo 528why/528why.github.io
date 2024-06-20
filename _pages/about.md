@@ -24,6 +24,7 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2024
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by Electronics.
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by IPEC 2023
@@ -43,9 +44,9 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 </div>
 </div>
 -->
-
-- Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks, **Huyu Wu**, Bowen Jia, Jiesheng Gao, **IJCNN 2024**
-- AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification, Wang J, Lin T, **Wu H**, **Electronics**
+- Chaos Theory Meets Deep Learning: A New Approach to Time Series Forecasting,Bowen Jia, Huyu Wub, Kaiyu Gu, **Expert Systems with Applications**(Co-First Author, 中科院一区TOP)
+- Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks, **Huyu Wu**, Bowen Jia, Jiesheng Gao, **IJCNN 2024**(First Author, CCF-C)
+- AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification, Wang J, Lin T, **Wu H**, **Electronics**(Third Author,  中科院三区)
 - D-Transformer: A Deep Learning Model for Time Series Prediction, **Huyu Wu**, Ruoyu Li, et al. **IPEC 2023**
 
 # 📖 Educations
@@ -57,7 +58,8 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 💻 Internships
-- *2023.12 - Present*, Research Assistant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
+- *2024.04 - Present*, Research Assistant of [Institute of Automation Chinese Academy](http://english.ia.cas.cn/) 
+- *2023.12 - 2024.04*, Research Assistant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
 <!--
   Associate Professor YUAN, Xue-Ming
 -->
