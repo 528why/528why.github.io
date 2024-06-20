@@ -44,7 +44,7 @@ My research interest includes computer vision, trustworthy machine learning(Lear
 </div>
 </div>
 -->
-- Chaos Theory Meets Deep Learning: A New Approach to Time Series Forecasting,Bowen Jia, Huyu Wub, Kaiyu Gu, **Expert Systems with Applications**(Co-First Author, 中科院一区TOP)
+- Chaos Theory Meets Deep Learning: A New Approach to Time Series Forecasting,Bowen Jia, Huyu Wu, Kaiyu Gu, **Expert Systems with Applications**(Co-First Author, 中科院一区TOP)
 - Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks, **Huyu Wu**, Bowen Jia, Jiesheng Gao, **IJCNN 2024**(First Author, CCF-C)
 - AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification, Wang J, Lin T, **Wu H**, **Electronics**(Third Author,  中科院三区)
 - D-Transformer: A Deep Learning Model for Time Series Prediction, **Huyu Wu**, Ruoyu Li, et al. **IPEC 2023**
