@@ -57,7 +57,7 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 💻 Internships
-- *2024.04 - Present*, Intern of [Institute of Automation Chinese Academy](http://english.ia.cas.cn/)
+- *2024.04 - 2024.08*, Intern of [Institute of Automation Chinese Academy](http://english.ia.cas.cn/)
   
 - *2023.12 - 2024.04*, Research Assistant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
 <!--
