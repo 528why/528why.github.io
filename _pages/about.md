@@ -19,8 +19,9 @@ redirect_from:
 
 I am a third-year undergraduate student majoring in Artificial Intelligence at the[ School of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). 
 
-My research interest includes computer vision, trustworthy machine learning(Learning with noisy labels), malware classification.
+I am a senior student  majoring in Artificial Intelligence at the[ School of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), and I am about to pursue my graduate studies at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). 
 
+My research interests include Computer Vision, Trustworthy Machine Learning (Learning with noisy labels), and Large Language Model.
 
 
 # 🔥 News
@@ -63,7 +64,7 @@ Transferred from Business Administration to Artificial Intelligence.
 <!--
   Associate Professor YUAN, Xue-Ming
 -->
-- *2022.11 - Present*, Research Assistant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
+- *2022.11 - 2024.08*, Research Assistant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
 <!--
   Associate Professor Quan Guo
 -->
@@ -109,5 +110,6 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province. 
 
 # 📚 Academic Services
-- **Conference Reviewer:** International Joint Conference on Neural Networks(IJCNN)
+- **Conference Reviewer:** IJCNN 2024, ACL 2024
+
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS)
