@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student majoring in Artificial Intelligence at the[ School of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). 
-
 I am a senior student  majoring in Artificial Intelligence at the[ School of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), and I am about to pursue my graduate studies at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). 
 
 My research interests include Computer Vision, Trustworthy Machine Learning (Learning with noisy labels), and Large Language Model.
