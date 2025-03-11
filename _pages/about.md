@@ -73,14 +73,28 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 📙 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01 - 2024.03</div><img src='images/FMCHS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.08 - 2025.03</div><img src='images/DC3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Dataset Condensation with Color Compensation**   
+Dataset condensation always faces a constitutive trade-off: balancing performance and fidelity under extreme compression. Existing methods struggle with two bottlenecks: image-level selection methods (Coreset Selection, Dataset Quantization) suffer from inefficiency condensation, while pixel-level optimization (Dataset Distillation) introduces semantic distortion due to over-parameterization. With empirical observations, we find that a critical problem in dataset condensation is the oversight of color's dual role as an information carrier and a basic semantic representation unit.
+We argue that improving the colorfulness of condensed images is beneficial for representation learning. Motivated by this, we propose \textbf{DC3}: a \textbf{D}ataset \textbf{C}ondensation framework with \textbf{C}olor \textbf{C}ompensation. After a calibrated selection strategy, DC3 utilizes the latent diffusion model to enhance the color diversity of an image rather than creating a brand-new one. Extensive experiments demonstrate the superior performance and generalization of DC3 that outperforms SOTA methods across multiple benchmarks. To the best of our knowledge, besides focusing on downstream tasks, DC3 is the first research that fine-tunes the pre-trained diffusion models with condensed datasets. The FID results prove that training networks with our high-quality datasets is feasible without model collapse or other degradation issues. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12 - 2025.03</div><img src='images/FMCHS_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **FMCHS: Advancing Traditional Chinese Medicine Herb Recommendation with Fusion of Multiscale Correlations of Herbs and Symptoms**   
 Traditional Chinese medicine (TCM) exhibits remarkable therapeutic efficacy in disease treatment and healthcare through personalized herb prescriptions. However, current herb recommendation models inadequately capture the multiscale relations between herbs and clinical symptoms, particularly neglecting latent correlations at the chemicalmolecular scale. To address these limitations, we propose the Fusion of Multiscale Correlations of Herbs and Symptoms (FMCHS), an innovative framework that synergistically integrates molecular-scale chemical characteristics of herbs with clinical symptoms. The framework employs multi-relational graph transformer layers to generate enriched embeddings that preserve both structural and semantic features within herbs and symptoms. Through systematic incorporation of herb chemical profiles into node embeddings and implementation of attention-based feature fusion, FMCHS effectively utilizes multiscale correlations.
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07 - 2024.12</div><img src='images/Temporally Relevant Images.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Multimodal Classification of Temporally Relevant Images Using Large Pretrained Models**   
+Temporally relevant images are visual representations that capture and convey information directly tied to specific points or periods in time. These images may exhibit gradual transformations in appearance, texture, or other visual cues that are challenging for traditional classification algorithms to recognize. To more accurately capture the features of temporally relevant images, we introduce spectral data corresponding to these images and propose a multimodal image classification method. The proposed approach leverages the expert knowledge of the large language model
+(i.e. Claude-3.5, GPT-4o) to guide a grounded vision language model and a segment anything model for zero-shot object detection and image segmentation.
+</div>
+</div>
 
 
 <!--
