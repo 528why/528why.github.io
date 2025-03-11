@@ -120,7 +120,7 @@ Pioneered the integration of malware binary grayscale images with runtime API ca
 Managed the construction of private datasets, implemented classification algorithms, and authored the project proposal.
 </div>
 </div>
-<!--
+-->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018.09 - 2019.09</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
