@@ -23,6 +23,7 @@ My research interests include Computer Vision, Trustworthy Machine Learning (Lea
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2024
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by Electronics.
@@ -43,6 +44,7 @@ My research interests include Computer Vision, Trustworthy Machine Learning (Lea
 </div>
 </div>
 -->
+- Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. Applied Soft Computing, 2024, 167: 112316. (Last Author, 中科院一区TOP)
 - Jia B, **Wu H**, Guo K. Chaos theory meets deep learning: A new approach to time series forecasting[J]. **Expert Systems with Applications**, 2024, 255: 124533. (Co-First Author, 中科院一区TOP)
 - **Wu H**, Jia B, Sheng G. Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks[C]//2024 International Joint Conference on Neural Networks (**IJCNN**). IEEE, 2024: 1-8. (First Author, CCF-C)
 - Wang J, Lin T, **Wu H**, et al. AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification[J]. **Electronics**, 2024, 13(5): 935. (Third Author,  中科院三区)
@@ -56,6 +58,8 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 💻 Internships
+- *2024.04 - Present*, Intern of [TSAIL](https://ml.cs.tsinghua.edu.cn/projects.html) - Tsinghua University
+
 - *2024.04 - 2024.08*, Intern of [Institute of Automation Chinese Academy](http://english.ia.cas.cn/)
   
 - *2023.12 - 2024.04*, Research Assistant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
@@ -69,7 +73,17 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 📙 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01 - 2024.03</div><img src='images/FMCHS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**FMCHS: Advancing Traditional Chinese Medicine Herb Recommendation with Fusion of Multiscale Correlations of Herbs and Symptoms**   
+Traditional Chinese medicine (TCM) exhibits remarkable therapeutic efficacy in disease treatment and healthcare through personalized herb prescriptions. However, current herb recommendation models inadequately capture the multiscale relations between herbs and clinical symptoms, particularly neglecting latent correlations at the chemicalmolecular scale. To address these limitations, we propose the Fusion of Multiscale Correlations of Herbs and Symptoms (FMCHS), an innovative framework that synergistically integrates molecular-scale chemical characteristics of herbs with clinical symptoms. The framework employs multi-relational graph transformer layers to generate enriched embeddings that preserve both structural and semantic features within herbs and symptoms. Through systematic incorporation of herb chemical profiles into node embeddings and implementation of attention-based feature fusion, FMCHS effectively utilizes multiscale correlations.
+</div>
+</div>
 
+
+
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01 - 2024.03</div><img src='images/fruit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies**   
@@ -92,6 +106,8 @@ Pioneered the integration of malware binary grayscale images with runtime API ca
 Managed the construction of private datasets, implemented classification algorithms, and authored the project proposal.
 </div>
 </div>
+<!--
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018.09 - 2019.09</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
