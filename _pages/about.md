@@ -58,7 +58,7 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 💻 Internships
-- *2024.04 - Present*, Intern of [TSAIL](https://ml.cs.tsinghua.edu.cn/projects.html) - Tsinghua University
+- *2024.08 - Present*, Intern of [TSAIL](https://ml.cs.tsinghua.edu.cn/projects.html) - Tsinghua University
 
 - *2024.04 - 2024.08*, Intern of [Institute of Automation Chinese Academy](http://english.ia.cas.cn/)
   
