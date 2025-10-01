@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student  majoring in Artificial Intelligence at the[ School of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), and I am about to pursue my graduate studies at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). 
+I am currently pursuing my graduate studies at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/), after graduating with a bachelor's degree in Artificial Intelligence from the [School of Computer Science](https://cs.scu.edu.cn/).
 
-My research interests include Computer Vision, Trustworthy Machine Learning (Learning with noisy labels), and Large Language Model.
+My research interests lie in the **Multimodal Large Language Models** and **Dataset Distillation**. You can find my main research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-21-blue.svg?logo=google-scholar"></a>
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2024
@@ -44,16 +45,16 @@ My research interests include Computer Vision, Trustworthy Machine Learning (Lea
 </div>
 </div>
 -->
+- **Wu H**, Jia B, Yuan X M. LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification[J]. Neural Networks, 2025: 108155.(First Author, CCF-B)
 - Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. Applied Soft Computing, 2024, 167: 112316. (Last Author, 中科院一区TOP)
 - Jia B, **Wu H**, Guo K. Chaos theory meets deep learning: A new approach to time series forecasting[J]. **Expert Systems with Applications**, 2024, 255: 124533. (Co-First Author, 中科院一区TOP)
 - **Wu H**, Jia B, Sheng G. Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks[C]//2024 International Joint Conference on Neural Networks (**IJCNN**). IEEE, 2024: 1-8. (First Author, CCF-C)
 - Wang J, Lin T, **Wu H**, et al. AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification[J]. **Electronics**, 2024, 13(5): 935. (Third Author,  中科院三区)
 
 # 📖 Educations
-- *2021.09 - Present*, College of Computer Science, Artificial Intelligence, Sichuan University
+- *2025.09 - Present*, Institute of Computing Technology, University of Chinese Academy of Sciences
+- *2021.09 - 2025.06*, College of Computer Science, Artificial Intelligence, Sichuan University
 - *2020.09 - 2021.06*, Business School, Business Administration, Sichuan University
-
-Transferred from Business Administration to Artificial Intelligence. 
 
 
 
@@ -73,6 +74,24 @@ Transferred from Business Administration to Artificial Intelligence.
 
 
 # 📙 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.03 - 2025.09</div><img src='images/DAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Diffusion Models As Dataset Distillation Priors**   
+Dataset distillation seeks to create compact yet informative datasets, but balancing diversity, generalization, and representativeness remains challenging. We propose Diffusion As Priors (DAP), which leverages the inherent representativeness prior in diffusion models by quantifying synthetic–real data similarity in feature space with a Mercer kernel and guiding the reverse diffusion process without retraining. 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05 - 2025.08</div><img src='images/MLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models**   
+Multimodal Large Language Models (MLLMs) achieve strong results but suffer from text dominance, where textual inputs outweigh other modalities. We present the first systematic study of this issue across images, videos, audio, time-series, and graphs, introducing two metrics—the Modality Dominance Index (MDI) and Attention Efficiency Index (AEI)—to quantify the imbalance. Our analysis reveals its pervasive nature and key causes, and we propose a simple token compression method that rebalances attention, reducing LLaVA-7B’s MDI from 10.23 to 0.86. This work offers insights and methods for building more balanced multimodal models.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.08 - 2025.03</div><img src='images/DC3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Dataset Condensation with Color Compensation**   
@@ -80,6 +99,7 @@ Dataset condensation faces inherent trade-offs between performance and fidelity.
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12 - 2025.03</div><img src='images/FMCHS_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **FMCHS: Advancing Traditional Chinese Medicine Herb Recommendation with Fusion of Multiscale Correlations of Herbs and Symptoms**   
@@ -95,8 +115,6 @@ Temporally relevant images are visual representations that capture and convey in
 </div>
 </div>
 
-
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01 - 2024.03</div><img src='images/fruit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Optimizing Tropical Fruit Supply Chain Dynamics through Computer Vision-Driven Pricing Strategies**   
@@ -137,10 +155,10 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province. 
 
 # 📚 Academic Services
-- **Conference Reviewer:** IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025
+- **Conference Reviewer:** IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026
 
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS)
 
 # 🌏 Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5asrtcsm1fs&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7em4cMIIWlwnjcm-0tJhSO8vrChpSZvg-YeTEIOwS44&cl=ffffff&w=a"></script>
 
