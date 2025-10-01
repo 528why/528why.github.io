@@ -43,8 +43,8 @@ My research interests lie in the **Multimodal Large Language Models** and **Data
 </div>
 </div>
 -->
-- **Wu H**, Jia B, Yuan X M. LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification[J]. Neural Networks, 2025: 108155.(First Author, CCF-B)
-- Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. Applied Soft Computing, 2024, 167: 112316. (Last Author, 中科院一区TOP)
+- **Wu H**, Jia B, Yuan X M. LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification[J]. **Neural Networks**, 2025: 108155.(First Author, CCF-B)
+- Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. **Applied Soft Computing**, 2024, 167: 112316. (Last Author, 中科院一区TOP)
 - Jia B, **Wu H**, Guo K. Chaos theory meets deep learning: A new approach to time series forecasting[J]. **Expert Systems with Applications**, 2024, 255: 124533. (Co-First Author, 中科院一区TOP)
 - **Wu H**, Jia B, Sheng G. Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks[C]//2024 International Joint Conference on Neural Networks (**IJCNN**). IEEE, 2024: 1-8. (First Author, CCF-C)
 
