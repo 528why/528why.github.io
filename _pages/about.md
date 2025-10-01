@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my graduate studies at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/), after graduating with a bachelor's degree in Artificial Intelligence from the [School of Computer Science](https://cs.scu.edu.cn/).
+I am Huyu Wu(伍胡宇), a graduate student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). I received my bachelor's degree in Artificial Intelligence from the [School of Computer Science](https://cs.scu.edu.cn/).
 
 My research interests lie in the **Multimodal Large Language Models** and **Dataset Distillation**. You can find my main research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-21-blue.svg?logo=google-scholar"></a>
 
@@ -27,8 +27,9 @@ My research interests lie in the **Multimodal Large Language Models** and **Data
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2024
+<!--
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by Electronics.
-
+-->
 
 # 📝 Publications 
 
@@ -49,8 +50,10 @@ My research interests lie in the **Multimodal Large Language Models** and **Data
 - Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. Applied Soft Computing, 2024, 167: 112316. (Last Author, 中科院一区TOP)
 - Jia B, **Wu H**, Guo K. Chaos theory meets deep learning: A new approach to time series forecasting[J]. **Expert Systems with Applications**, 2024, 255: 124533. (Co-First Author, 中科院一区TOP)
 - **Wu H**, Jia B, Sheng G. Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks[C]//2024 International Joint Conference on Neural Networks (**IJCNN**). IEEE, 2024: 1-8. (First Author, CCF-C)
+<!--
 - Wang J, Lin T, **Wu H**, et al. AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification[J]. **Electronics**, 2024, 13(5): 935. (Third Author,  中科院三区)
-
+-->
+  
 # 📖 Educations
 - *2025.09 - Present*, Institute of Computing Technology, University of Chinese Academy of Sciences
 - *2021.09 - 2025.06*, College of Computer Science, Artificial Intelligence, Sichuan University
@@ -59,7 +62,7 @@ My research interests lie in the **Multimodal Large Language Models** and **Data
 
 
 # 💻 Internships
-- *2024.08 - Present*, Intern of [TSAIL](https://ml.cs.tsinghua.edu.cn/projects.html) - Tsinghua University
+- *2024.08 - Present*, Intern of [TSAIL - Tsinghua University](https://ml.cs.tsinghua.edu.cn/projects.html)
 
 - *2024.04 - 2024.08*, Intern of [Institute of Automation Chinese Academy](http://english.ia.cas.cn/)
   
@@ -75,7 +78,7 @@ My research interests lie in the **Multimodal Large Language Models** and **Data
 
 # 📙 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.03 - 2025.09</div><img src='images/DAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.03 - 2025.09</div><img src='images/DAP.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Diffusion Models As Dataset Distillation Priors**   
 Dataset distillation seeks to create compact yet informative datasets, but balancing diversity, generalization, and representativeness remains challenging. We propose Diffusion As Priors (DAP), which leverages the inherent representativeness prior in diffusion models by quantifying synthetic–real data similarity in feature space with a Mercer kernel and guiding the reverse diffusion process without retraining. 
@@ -84,7 +87,7 @@ Dataset distillation seeks to create compact yet informative datasets, but balan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05 - 2025.08</div><img src='images/MLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05 - 2025.08</div><img src='images/MLLM.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 **When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models**   
 Multimodal Large Language Models (MLLMs) achieve strong results but suffer from text dominance, where textual inputs outweigh other modalities. We present the first systematic study of this issue across images, videos, audio, time-series, and graphs, introducing two metrics—the Modality Dominance Index (MDI) and Attention Efficiency Index (AEI)—to quantify the imbalance. Our analysis reveals its pervasive nature and key causes, and we propose a simple token compression method that rebalances attention, reducing LLaVA-7B’s MDI from 10.23 to 0.86. This work offers insights and methods for building more balanced multimodal models.
