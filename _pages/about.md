@@ -27,10 +27,7 @@ My research interests lie in the **Multimodal Large Language Models** and **Data
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2024
-<!--
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by Electronics.
--->
-
+- 
 # 📝 Publications 
 
 <!--
@@ -50,9 +47,7 @@ My research interests lie in the **Multimodal Large Language Models** and **Data
 - Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. Applied Soft Computing, 2024, 167: 112316. (Last Author, 中科院一区TOP)
 - Jia B, **Wu H**, Guo K. Chaos theory meets deep learning: A new approach to time series forecasting[J]. **Expert Systems with Applications**, 2024, 255: 124533. (Co-First Author, 中科院一区TOP)
 - **Wu H**, Jia B, Sheng G. Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks[C]//2024 International Joint Conference on Neural Networks (**IJCNN**). IEEE, 2024: 1-8. (First Author, CCF-C)
-<!--
-- Wang J, Lin T, **Wu H**, et al. AGProto: Adaptive Graph ProtoNet towards Sample Adaption for Few-Shot Malware Classification[J]. **Electronics**, 2024, 13(5): 935. (Third Author,  中科院三区)
--->
+
   
 # 📖 Educations
 - *2025.09 - Present*, Institute of Computing Technology, University of Chinese Academy of Sciences
