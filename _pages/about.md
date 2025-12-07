@@ -8,26 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am **Huyu Wu (伍胡宇)**, a first-year Master's student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). Currently, I am exploring the frontiers of **Agentic Search** as a **Search Algorithm Intern** at **Xiaohongshu (RED)**.
 
-I am **Huyu Wu(伍胡宇)**, a graduate student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). I’m currently interning on the **Search Algorithms** team at Xiaohongshu (RED) and am **open to connecting and collaboration**. I received my bachelor's degree in Artificial Intelligence from the [School of Computer Science](https://cs.scu.edu.cn/).
+My previous research background covers **Dataset Distillation** and **Time Series Analysis**, where I explored methods for efficient data representation and robust forecasting. I am always open to discussions and potential collaborations!
 
-My research interests lie in the **MLLM** and **Dataset Distillation**. You can find my main research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-29-blue.svg?logo=google-scholar"></a>
+You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-31-blue.svg?logo=google-scholar"></a>
+
+
 
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Transactions on Machine Learning Research.
+- *2025.10*: &nbsp;🎉🎉 I joined Xiaohongshu as a Research Intern to work on Agentic Search.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing.
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications.
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2024.
 
 # 📝 Publications 
 - **Wu H**, Su D, Hou J, Li G. Dataset Condensation with Color Compensation[J]. **Transactions on Machine Learning Research**, 2025. (First Author)
@@ -46,7 +41,7 @@ My research interests lie in the **MLLM** and **Dataset Distillation**. You can 
 
 
 # 💻 Internships
-- *2025.10 - Present*, Intern of Xiaohongshu
+- *2025.10 - Present*, Search Algorithm Intern at Xiaohongshu (Beijing)
 
 - *2024.08 - 2025.09*, Intern of [TSAIL - Tsinghua University](https://ml.cs.tsinghua.edu.cn/projects.html)
 
@@ -91,7 +86,7 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 
 
 # 🎖 Honors and Awards
-- *2024.10* Huang Qianheng Scholarship
+- *2024.10* Huang Qianheng Scholarship.
 - *2023.06* Champion, 3rd Youth Campus Volleyball League of Sichuan Province.
 - *2022.11* Second Prize, Asia-Pacific Undergraduate Mathematical Contest in Modeling. 
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province. 
