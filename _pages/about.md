@@ -14,17 +14,19 @@ I am **Huyu Wu (伍胡宇)**, a first-year Master's student at the [Institute of
 
 My previous research background covers **Dataset Distillation** and **Time Series Analysis**, where I explored methods for efficient data representation and robust forecasting. I am always open to discussions and potential collaborations!
 
-You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-31-blue.svg?logo=google-scholar"></a>
+You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-41-blue.svg?logo=google-scholar"></a>
 
 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Transactions on Machine Learning Research.
 - *2025.10*: &nbsp;🎉🎉 I joined Xiaohongshu as a Research Intern to work on Agentic Search.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 
 # 📝 Publications 
+- Su D, **Wu H**, Chen H, Shi Y, Wang Y, Ye X, Zhu J. "Diffusion Models as Dataset Distillation Priors." The Fourteenth **International Conference on Learning Representations**, 2026. (Second Author)
 - **Wu H**, Su D, Hou J, Li G. Dataset Condensation with Color Compensation[J]. **Transactions on Machine Learning Research**, 2025. (First Author)
 - **Wu H**, Jia B, Yuan X M. LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification[J]. **Neural Networks**, 2025: 108155. (First Author, CCF-B)
 - Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. **Applied Soft Computing**, 2024, 167: 112316. (Last Author, 中科院一区TOP)
@@ -57,13 +59,6 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 
 # 📙 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.03 - 2025.09</div><img src='images/DAP.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Diffusion Models As Dataset Distillation Priors**   
-Dataset distillation seeks to create compact yet informative datasets, but balancing diversity, generalization, and representativeness remains challenging. We propose Diffusion As Priors (DAP), which leverages the inherent representativeness prior in diffusion models by quantifying synthetic–real data similarity in feature space with a Mercer kernel and guiding the reverse diffusion process without retraining. 
-</div>
-</div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05 - 2025.08</div><img src='images/MLLM.png' alt="sym" width="60%"></div></div>
@@ -92,9 +87,9 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province. 
 
 # 📚 Academic Services
-- **Conference Reviewer:** IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026
+- **Conference Reviewer:** IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026, ICME 2026
 
-- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS)
+- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS), Journal of Supercomputing
 
 # 🌏 Visitor Map
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7em4cMIIWlwnjcm-0tJhSO8vrChpSZvg-YeTEIOwS44&cl=ffffff&w=a"></script>
