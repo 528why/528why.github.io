@@ -14,7 +14,7 @@ I am **Huyu Wu (伍胡宇)**, a first-year Master's student at the [Institute of
 
 My previous research background covers **Dataset Distillation** and **Time Series Analysis**, where I explored methods for efficient data representation and robust forecasting. I am always open to discussions and potential collaborations!
 
-You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-41-blue.svg?logo=google-scholar"></a>
+You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-52-blue.svg?logo=google-scholar"></a>
 
 
 
