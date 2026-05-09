@@ -63,7 +63,7 @@ You can find my more research interests on <a href='https://scholar.google.com/c
   <div class='paper-box-image'>
     <div>
       <div class="badge">2026.01 - 2026.05</div>
-      <img src='images/ssp_kg.pdf' alt="sym" width="60%">
+      <img src='images/ssp_kg.png' alt="sym" width="60%">
     </div>
   </div>
 
