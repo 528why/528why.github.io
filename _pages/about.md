@@ -14,7 +14,7 @@ I am **Huyu Wu (伍胡宇)**, a first-year Master's student at the [Institute of
 
 My previous research background covers **Dataset Distillation** and **Time Series Analysis**, where I explored methods for efficient data representation and robust forecasting. I am always open to discussions and potential collaborations!
 
-You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-52-blue.svg?logo=google-scholar"></a>
+You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-72-blue.svg?logo=google-scholar"></a>
 
 
 
@@ -59,6 +59,19 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 
 # 📙 Projects
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2026 Under Review</div>
+      <img src='images/ssp_kg.pdf' alt="sym" width="60%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+**Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents**
+Self-evolving search agents like Search Self-Play (SSP) let a Proposer generate questions and a Solver answer them, but struggle with low-quality questions and sparse binary rewards. We reuse knowledge-graph paths as construction-derived intermediate supervision for both sides: LLM-guided KG subgraphs provide relational context for the Proposer, and Waypoint Coverage Reward (WCR) grants graded partial credit to incorrect Solver trajectories based on intermediate entity coverage. Across seven QA benchmarks and nine model configurations, our approach improves the average score over SSP in all settings, with notable gains on multi-hop QA tasks.
+  </div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05 - 2025.08</div><img src='images/MLLM.png' alt="sym" width="60%"></div></div>
