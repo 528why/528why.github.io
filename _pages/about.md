@@ -62,13 +62,14 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2026 Under Review</div>
+      <div class="badge">2026.01 - 2026.05</div>
       <img src='images/ssp_kg.pdf' alt="sym" width="60%">
     </div>
   </div>
 
   <div class='paper-box-text' markdown="1">
 **Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents**
+    
 Self-evolving search agents like Search Self-Play (SSP) let a Proposer generate questions and a Solver answer them, but struggle with low-quality questions and sparse binary rewards. We reuse knowledge-graph paths as construction-derived intermediate supervision for both sides: LLM-guided KG subgraphs provide relational context for the Proposer, and Waypoint Coverage Reward (WCR) grants graded partial credit to incorrect Solver trajectories based on intermediate entity coverage. Across seven QA benchmarks and nine model configurations, our approach improves the average score over SSP in all settings, with notable gains on multi-hop QA tasks.
   </div>
 </div>
