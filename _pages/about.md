@@ -14,7 +14,7 @@ I am **Huyu Wu (伍胡宇)**, a first-year Master's student at the [Institute of
 
 My previous research background covers **Dataset Distillation** and **Multimodal Large Language Models**, where I explored methods for efficient data representation and modality bias. I am always open to discussions and potential collaborations!
 
-You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-86-blue.svg?logo=google-scholar"></a>
+You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-116-blue.svg?logo=google-scholar"></a>
 
 
 
