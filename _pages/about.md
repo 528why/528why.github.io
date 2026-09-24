@@ -10,7 +10,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-I am **Huyu Wu (伍胡宇)**, a first-year Master's student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). Currently, I am exploring the frontiers of **Agentic Search** as a **Search Algorithm Intern** at **Xiaohongshu (RED)**.
+I am **Huyu Wu (伍胡宇)**, a second-year Master's student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). Currently, I am a Search Algorithm Intern on the **Tako team at TikTok Search**, where we develop core technologies for next-generation intelligent search experiences. I focus on building **LLM-based agents for the comment section**.
 
 My previous research background covers **Dataset Distillation** and **Multimodal Large Language Models**, where I explored methods for efficient data representation and modality bias. I am always open to discussions and potential collaborations!
 
@@ -20,14 +20,17 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Transactions on Machine Learning Research.
 - *2025.10*: &nbsp;🎉🎉 I joined Xiaohongshu as a Research Intern to work on Agentic Search.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 
 # 📝 Publications 
+- **Wu H**, Liu J, Wei X, Gao Y, Wu Y, Hu Y. "Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents." **Advances in Neural Information Processing Systems (NeurIPS)**, 2026. (First Author, CCF-A)
+- **Wu H**, Tang M, Zheng X, Su D, Jiang H. "When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models." **Advances in Neural Information Processing Systems (NeurIPS)**, 2026. (First Author, CCF-A)
 - Su D, **Wu H**, Chen H, Shi Y, Wang Y, Ye X, Zhu J. "Diffusion Models as Dataset Distillation Priors." The Fourteenth **International Conference on Learning Representations**, 2026. (Second Author)
-- **Wu H**, Su D, Hou J, Li G. Dataset Condensation with Color Compensation[J]. **Transactions on Machine Learning Research**, 2025. (First Author)
+- **Wu H**, Su D, Hou J, Li G. Dataset Condensation with Color Compensation[J]. **Transactions on Machine Learning Research (TMLR)**, 2025. (First Author)
 - **Wu H**, Jia B, Yuan X M. LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification[J]. **Neural Networks**, 2025: 108155. (First Author, CCF-B)
 - Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. **Applied Soft Computing**, 2024, 167: 112316. (Last Author, 中科院一区TOP)
 - Jia B, **Wu H**, Guo K. Chaos theory meets deep learning: A new approach to time series forecasting[J]. **Expert Systems with Applications**, 2024, 255: 124533. (Co-First Author, 中科院一区TOP)
@@ -43,7 +46,9 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 
 
 # 💻 Internships
-- *2025.10 - Present*, Search Algorithm Intern at Xiaohongshu (Beijing)
+- *2026.09 - Present*, Intern at TikTok Search Tako
+
+- *2025.10 - 2026.09*, Search Algorithm Intern at Xiaohongshu (Beijing)
 
 - *2024.08 - 2025.09*, Intern of [TSAIL - Tsinghua University](https://ml.cs.tsinghua.edu.cn/projects.html)
 
@@ -59,7 +64,7 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 
 # 📙 Projects
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">2026.01 - 2026.05</div>
@@ -73,14 +78,7 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 Self-evolving search agents like Search Self-Play (SSP) let a Proposer generate questions and a Solver answer them, but struggle with low-quality questions and sparse binary rewards. We reuse knowledge-graph paths as construction-derived intermediate supervision for both sides: LLM-guided KG subgraphs provide relational context for the Proposer, and Waypoint Coverage Reward (WCR) grants graded partial credit to incorrect Solver trajectories based on intermediate entity coverage. Across seven QA benchmarks and nine model configurations, our approach improves the average score over SSP in all settings, with notable gains on multi-hop QA tasks.
   </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05 - 2025.08</div><img src='images/MLLM.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-**When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models**   
-Multimodal Large Language Models (MLLMs) achieve strong results but suffer from text dominance, where textual inputs outweigh other modalities. We present the first systematic study of this issue across images, videos, audio, time-series, and graphs, introducing two metrics—the Modality Dominance Index (MDI) and Attention Efficiency Index (AEI)—to quantify the imbalance. Our analysis reveals its pervasive nature and key causes, and we propose a simple token compression method that rebalances attention, reducing LLaVA-7B’s MDI from 10.23 to 0.86. This work offers insights and methods for building more balanced multimodal models.
-</div>
-</div>
+ -->
 
 
 
