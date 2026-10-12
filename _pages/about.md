@@ -71,7 +71,7 @@ redirect_from:
     <div class="project-text">
       <h3 class="project-title">DL-OPSD: Dual-Level Selective On-Policy Self-Distillation for Skill Internalization</h3>
       <p class="project-date">2026.05 – 2026.09</p>
-      <p class="project-question">When self-guidance and execution feedback disagree, how should a model learn from itself?</p>
+      <p class="project-question"><strong><em>When self-guidance and execution feedback disagree, how should a model learn from itself?</em></strong></p>
       <p class="project-description">DL-OPSD selects positive-advantage trajectories for auxiliary distillation and weights teacher-supported tokens according to student uncertainty and teacher certainty. Reinforcement learning uses all trajectories, and the student requires no skill access at inference.</p>
       <div class="project-links"><!-- Add confirmed project, paper, dataset, and code links here. --></div>
     </div>
@@ -84,7 +84,7 @@ redirect_from:
     <div class="project-text">
       <h3 class="project-title">EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis</h3>
       <p class="project-date">2026.05 – 2026.09</p>
-      <p class="project-question">Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</p>
+      <p class="project-question"><strong><em>Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</em></strong></p>
       <p class="project-description">EEGAgentBench evaluates these capabilities through six tasks and 10 deterministic EEG analysis tools, with recordings ranging from 2 seconds to nearly 23 hours. Evaluation of 29 LLMs reveals substantial limitations in sustained evidence accumulation and multi-step reasoning for long-horizon EEG analysis.</p>
       <nav class="project-links" aria-label="eegagentbench resources">
         <a href="https://528why.github.io/EEGAgentBench-Page/" target="_blank" rel="noopener noreferrer"><i class="icon icon-globe" aria-hidden="true"></i>Project Page</a>
@@ -102,7 +102,7 @@ redirect_from:
     <div class="project-text">
       <h3 class="project-title">MaLoRA: Mitigating Text-Centric Bias in Multimodal Large Language Models through Key-Space Alignment</h3>
       <p class="project-date">2025.10 – 2026.01</p>
-      <p class="project-question">We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</p>
+      <p class="project-question"><strong><em>We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</em></strong></p>
       <p class="project-description">MaLoRA combines modality-aware gated key adaptation, multi-kernel MMD alignment, and Gram-reference regularization to reduce cross-modal discrepancy while preserving modality-specific geometry. Across multiple MLLM backbones, it improves robustness to text-dominant failures, with its clearest gains on hallucination-sensitive benchmarks.</p>
       <nav class="project-links" aria-label="malora resources">
         <a href="https://arxiv.org/abs/2510.26721" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
@@ -158,30 +158,26 @@ redirect_from:
   <section aria-labelledby="-internships">
     <div class="section-heading"><h2 id="-internships">Experience</h2></div>
     <ul class="timeline">
+      <li><span class="institution-mark" aria-hidden="true"><img class="bytedance-mark" src="/images/brands/bytedance.svg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">ByteDance / TikTok Search Tako</strong><p class="position">Search Algorithm Intern</p><time>2026.09 – Present</time></div></li>
 
-      <li><time>2026.09 – Present</time>Search Algorithm Intern at <strong>ByteDance / TikTok Search Tako</strong></li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="xiaohongshu-mark" src="/images/brands/xiaohongshu.svg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">Xiaohongshu (Beijing)</strong><p class="position">Search Algorithm Intern</p><time>2025.10 – 2026.09</time></div></li>
 
-      <li><time>2025.10 – 2026.09</time>Search Algorithm Intern at Xiaohongshu (Beijing)</li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="tsinghua-mark" src="/images/brands/tsinghua.ico" alt="" width="64" height="56" loading="lazy"></span><div><a class="institution" href="https://ml.cs.tsinghua.edu.cn/projects.html" target="_blank" rel="noopener noreferrer">Tsinghua University · TSAIL</a><p class="position">Intern</p><time>2024.08 – 2025.09</time></div></li>
 
-      <li><time>2024.08 – 2025.09</time>Intern of <a href="https://ml.cs.tsinghua.edu.cn/projects.html" target="_blank" rel="noopener noreferrer">TSAIL - Tsinghua University</a></li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="" src="/images/brands/nus.png" alt="" width="64" height="56" loading="lazy"></span><div><a class="institution" href="https://iora.nus.edu.sg/" target="_blank" rel="noopener noreferrer">National University of Singapore</a><p class="position">Research Assistant · Institute of Operations Research and Analytics</p><time>2023.12 – 2024.04</time></div></li>
 
-      <li><time>2023.12 – 2024.04</time>Research Assistant of <a href="https://iora.nus.edu.sg/" target="_blank" rel="noopener noreferrer">National University of Singapore - Institute of Operations Research and Analytics</a> </li>
-
-      <li><time>2022.11 – 2024.08</time>Research Assistant of <a href="https://www.machineilab.org/" target="_blank" rel="noopener noreferrer">Sichuan University - Machine Intelligence Lab</a></li>
-
+      <li><span class="institution-mark" aria-hidden="true"><span class="sichuan-seal"><img class="sichuan-mark" src="/images/brands/sichuan.png" alt="" width="64" height="56" loading="lazy"></span></span><div><a class="institution" href="https://www.machineilab.org/" target="_blank" rel="noopener noreferrer">Sichuan University</a><p class="position">Research Assistant · Machine Intelligence Lab</p><time>2022.11 – 2024.08</time></div></li>
     </ul>
   </section>
 
   <section aria-labelledby="-educations">
     <div class="section-heading"><h2 id="-educations">Education</h2></div>
     <ul class="timeline">
+      <li><span class="institution-mark" aria-hidden="true"><img class="ucas-mark" src="/images/brands/ucas.jpg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">University of Chinese Academy of Sciences</strong><p class="position">M.S. · Institute of Computing Technology</p><time>2025.09 – Present</time></div></li>
 
-      <li><time>2025.09 – Present</time><strong>M.S.</strong>, Institute of Computing Technology, University of Chinese Academy of Sciences</li>
+      <li><span class="institution-mark" aria-hidden="true"><span class="sichuan-seal"><img class="sichuan-mark" src="/images/brands/sichuan.png" alt="" width="64" height="56" loading="lazy"></span></span><div><strong class="institution">Sichuan University</strong><p class="position">B.S. · College of Computer Science</p><time>2021.09 – 2025.06</time></div></li>
 
-      <li><time>2021.09 – 2025.06</time><strong>B.S.</strong>, College of Computer Science, Sichuan University</li>
-
-      <li><time>2020.09 – 2021.06</time>Business School, Business Administration, Sichuan University</li>
-
+      <li><span class="institution-mark" aria-hidden="true"><span class="sichuan-seal"><img class="sichuan-mark" src="/images/brands/sichuan.png" alt="" width="64" height="56" loading="lazy"></span></span><div><strong class="institution">Sichuan University</strong><p class="position">Business Administration · Business School</p><time>2020.09 – 2021.06</time></div></li>
     </ul>
   </section>
 
