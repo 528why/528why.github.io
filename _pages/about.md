@@ -64,6 +64,51 @@ You can find my more research interests on <a href='https://scholar.google.com/c
 
 # 📙 Projects
 
+<div class="paper-box project-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">2026.05 - 2026.09</div>
+      <a class="project-figure" href="images/projects/dl-opsd-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the DL-OPSD framework as a PDF">
+        <img src="images/projects/dl-opsd-framework.png" alt="DL-OPSD framework: skill internalization through trajectory-level selection and token-level weighting" width="100%" loading="lazy">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>DL-OPSD: Dual-Level Selective On-Policy Self-Distillation for Skill Internalization</strong></p>
+    <p><em>When self-guidance and execution feedback disagree, how should a model learn from itself?</em> DL-OPSD selects positive-advantage trajectories for auxiliary distillation and weights teacher-supported tokens according to student uncertainty and teacher certainty. Reinforcement learning uses all trajectories, and the student requires no skill access at inference.</p>
+  </div>
+</div>
+
+<div class="paper-box project-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">2026.05 - 2026.09</div>
+      <a class="project-figure" href="images/projects/eegagentbench-overview.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the EEGAgentBench overview as a PDF">
+        <img src="images/projects/eegagentbench-overview.png" alt="EEGAgentBench overview: six EEG analysis tasks and the agent-environment interaction" width="100%" loading="lazy">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis</strong></p>
+    <p><em>Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</em> EEGAgentBench evaluates these capabilities through six tasks and 10 deterministic EEG analysis tools, with recordings ranging from 2 seconds to nearly 23 hours. Evaluation of 29 LLMs reveals substantial limitations in sustained evidence accumulation and multi-step reasoning for long-horizon EEG analysis.</p>
+  </div>
+</div>
+
+<div class="paper-box project-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">2025.10 - 2026.01</div>
+      <a class="project-figure" href="images/projects/malora-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the MaLoRA framework as a PDF">
+        <img src="images/projects/malora-framework.png" alt="MaLoRA framework: aligning visual and textual keys while preserving modality-specific geometry" width="100%" loading="lazy">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>MaLoRA: Mitigating Text-Centric Bias in Multimodal Large Language Models through Key-Space Alignment</strong></p>
+    <p><em>We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</em> MaLoRA combines modality-aware gated key adaptation, multi-kernel MMD alignment, and Gram-reference regularization to reduce cross-modal discrepancy while preserving modality-specific geometry. Across multiple MLLM backbones, it improves robustness to text-dominant failures, with its clearest gains on hallucination-sensitive benchmarks.</p>
+  </div>
+</div>
+
 <!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>

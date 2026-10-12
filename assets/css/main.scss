@@ -87,6 +87,27 @@
 
 }
 
+.project-box {
+    .paper-box-image > div {
+        width: 100%;
+    }
+
+    .badge {
+        position: static;
+        display: inline-block;
+        margin: 0 0 .75em;
+    }
+
+    .project-figure {
+        display: block;
+    }
+
+    .paper-box-image img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
