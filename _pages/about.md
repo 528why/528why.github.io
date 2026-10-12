@@ -1,153 +1,213 @@
 ---
+layout: home
 permalink: /
 title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
+excerpt: "Huyu Wu's research on LLM agents, multimodal large language models, and dataset distillation."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-
-<span class='anchor' id='about-me'></span>
-I am **Huyu Wu (伍胡宇)**, a second-year Master's student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). Currently, I am a Search Algorithm Intern on the **Tako team at TikTok Search**, where we develop core technologies for next-generation intelligent search experiences. I focus on building **LLM-based agents for the comment section**.
-
-My previous research background covers **Dataset Distillation** and **Multimodal Large Language Models**, where I explored methods for efficient data representation and modality bias. I am always open to discussions and potential collaborations!
-
-You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-116-blue.svg?logo=google-scholar"></a>
-
-
-
-
-# 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2026.
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by Transactions on Machine Learning Research.
-- *2025.10*: &nbsp;🎉🎉 I joined Xiaohongshu as a Research Intern to work on Agentic Search.
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
-
-# 📝 Publications 
-- **Wu H**, Liu J, Wei X, Gao Y, Wu Y, Hu Y. "Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents." **Advances in Neural Information Processing Systems (NeurIPS)**, 2026. (First Author, CCF-A)
-- **Wu H**, Tang M, Zheng X, Su D, Jiang H. "When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models." **Advances in Neural Information Processing Systems (NeurIPS)**, 2026. (First Author, CCF-A)
-- Su D, **Wu H**, Chen H, Shi Y, Wang Y, Ye X, Zhu J. "Diffusion Models as Dataset Distillation Priors." The Fourteenth **International Conference on Learning Representations**, 2026. (Second Author)
-- **Wu H**, Su D, Hou J, Li G. Dataset Condensation with Color Compensation[J]. **Transactions on Machine Learning Research (TMLR)**, 2025. (First Author)
-- **Wu H**, Jia B, Yuan X M. LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification[J]. **Neural Networks**, 2025: 108155. (First Author, CCF-B)
-- Jia B, Guo Z, Huang T, Guo F, & **Wu H**. A generalized Lorenz system-based initialization method for deep neural networks[J]. **Applied Soft Computing**, 2024, 167: 112316. (Last Author, 中科院一区TOP)
-- Jia B, **Wu H**, Guo K. Chaos theory meets deep learning: A new approach to time series forecasting[J]. **Expert Systems with Applications**, 2024, 255: 124533. (Co-First Author, 中科院一区TOP)
-- **Wu H**, Jia B, Sheng G. Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks[C]//2024 International Joint Conference on Neural Networks (**IJCNN**). IEEE, 2024: 1-8. (First Author, CCF-C)
-
-  
-# 📖 Educations
-- *2025.09 – Present*, **M.S.**, Institute of Computing Technology, University of Chinese Academy of Sciences
-- *2021.09 – 2025.06*, **B.S.**, College of Computer Science, Sichuan University
-- *2020.09 – 2021.06*, Business School, Business Administration, Sichuan University
-
-
-
-
-# 💻 Internships
-- *2026.09 - Present*, Intern at TikTok Search Tako
-
-- *2025.10 - 2026.09*, Search Algorithm Intern at Xiaohongshu (Beijing)
-
-- *2024.08 - 2025.09*, Intern of [TSAIL - Tsinghua University](https://ml.cs.tsinghua.edu.cn/projects.html)
-
-- *2023.12 - 2024.04*, Research Assistant of [National University of Singapore - Institute of Operations Research and Analytics](https://iora.nus.edu.sg/) 
-<!--
-  Associate Professor YUAN, Xue-Ming
--->
-- *2022.11 - 2024.08*, Research Assistant of [Sichuan University - Machine Intelligence Lab](https://www.machineilab.org/)
-<!--
-  Associate Professor Quan Guo
--->
-
-
-# 📙 Projects
-
-<div class="paper-box project-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">2026.05 - 2026.09</div>
-      <a class="project-figure" href="images/projects/dl-opsd-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the DL-OPSD framework as a PDF">
-        <img src="images/projects/dl-opsd-framework.png" alt="DL-OPSD framework: skill internalization through trajectory-level selection and token-level weighting" width="100%" loading="lazy">
-      </a>
+<section class="intro-grid" id="about-me" aria-label="About Huyu Wu">
+  <aside class="profile">
+    <div class="profile-avatar"><img class="profile-photo" src="{{ site.author.avatar | relative_url }}" alt="Huyu Wu" width="128" height="128" fetchpriority="high"></div>
+    <div class="profile-info">
+      <h2 class="profile-name">Huyu Wu</h2>
+      <p class="profile-name-zh" lang="zh">伍胡宇</p>
+      <p class="profile-affiliation">Institute of Computing Technology, CAS</p>
+    </div>
+    <ul class="profile-links">
+      <li><a href="mailto:{{ site.author.email }}"><i class="icon icon-mail" aria-hidden="true"></i>Email</a></li>
+      <li><a href="https://github.com/528why" target="_blank" rel="noopener noreferrer"><i class="icon icon-github" aria-hidden="true"></i>GitHub</a></li>
+      <li><a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="icon icon-scholar" aria-hidden="true"></i>Google Scholar</a></li>
+      <li><a class="citation-link" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="icon icon-citations" aria-hidden="true"></i><span><span id="total_cit">125</span> Citations</span></a></li>
+    </ul>
+  </aside>
+  <div class="about">
+    <p class="eyebrow">About</p>
+    <h1 class="about-title">M.S. student working on LLM agents, multimodal models, and dataset distillation.</h1>
+    <p class="about-copy">I am a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences (ICT)</a>. My research covers efficient data representation, modality bias, and LLM-based agents.</p>
+    <div class="current-role">
+      <p class="eyebrow">Current role</p>
+      <div class="role-row">
+        <img class="company-logo" src="{{ '/images/brands/bytedance.svg' | relative_url }}" alt="ByteDance" width="49" height="44">
+        <div>
+          <p class="role-title">Search Algorithm Intern · ByteDance / TikTok Tako</p>
+          <p class="role-date">Sep 2026 – Present</p>
+          <p class="role-copy">Building LLM-based agents for the comment section in TikTok Search.</p>
+        </div>
+      </div>
     </div>
   </div>
-  <div class="paper-box-text">
-    <p><strong>DL-OPSD: Dual-Level Selective On-Policy Self-Distillation for Skill Internalization</strong></p>
-    <p><em>When self-guidance and execution feedback disagree, how should a model learn from itself?</em> DL-OPSD selects positive-advantage trajectories for auxiliary distillation and weights teacher-supported tokens according to student uncertainty and teacher certainty. Reinforcement learning uses all trajectories, and the student requires no skill access at inference.</p>
-  </div>
-</div>
+  <section class="news" aria-labelledby="-news">
+    <h2 class="eyebrow" id="-news">News</h2>
+    <ul class="news-list">
+      <li><time datetime="2026-09">2026.09</time>I joined ByteDance as a Search Algorithm Intern on the TikTok Search Tako team.</li>
+      <li><time datetime="2026-09">2026.09</time>Two papers are accepted by NeurIPS 2026.</li>
+      <li><time datetime="2026-02">2026.02</time>One paper is accepted by ICLR 2026.</li>
+    </ul>
+    <details class="news-archive">
+      <summary>Earlier news</summary>
+      <ul>
+        <li><time datetime="2025-10">2025.10</time> — One paper is accepted by Transactions on Machine Learning Research.</li>
+        <li><time datetime="2025-10">2025.10</time> — I joined Xiaohongshu as a Research Intern to work on Agentic Search.</li>
+        <li><time datetime="2025-09">2025.09</time> — One paper is accepted by Neural Networks.</li>
+      </ul>
+    </details>
+  </section>
+</section>
 
-<div class="paper-box project-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">2026.05 - 2026.09</div>
-      <a class="project-figure" href="images/projects/eegagentbench-overview.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the EEGAgentBench overview as a PDF">
-        <img src="images/projects/eegagentbench-overview.png" alt="EEGAgentBench overview: six EEG analysis tasks and the agent-environment interaction" width="100%" loading="lazy">
-      </a>
+<section class="home-section research" aria-labelledby="-projects">
+  <div class="section-heading">
+    <h2 id="-projects">Research Projects</h2>
+    <span class="section-caption">LLM agents · Multimodal models · Efficient learning</span>
+  </div>
+
+  <article class="project-row" id="dl-opsd">
+    <a class="project-figure" href="/images/projects/dl-opsd-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the dl-opsd framework as a PDF">
+      <img src="/images/projects/dl-opsd-framework.png" alt="DL-OPSD framework: skill internalization through trajectory-level selection and token-level weighting" width="2141" height="1078" loading="lazy">
+    </a>
+    <div class="project-text">
+      <h3 class="project-title">DL-OPSD: Dual-Level Selective On-Policy Self-Distillation for Skill Internalization</h3>
+      <p class="project-date">2026.05 – 2026.09</p>
+      <p class="project-question">When self-guidance and execution feedback disagree, how should a model learn from itself?</p>
+      <p class="project-description">DL-OPSD selects positive-advantage trajectories for auxiliary distillation and weights teacher-supported tokens according to student uncertainty and teacher certainty. Reinforcement learning uses all trajectories, and the student requires no skill access at inference.</p>
+      <div class="project-links"><!-- Add confirmed project, paper, dataset, and code links here. --></div>
     </div>
-  </div>
-  <div class="paper-box-text">
-    <p><strong>EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis</strong></p>
-    <p><em>Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</em> EEGAgentBench evaluates these capabilities through six tasks and 10 deterministic EEG analysis tools, with recordings ranging from 2 seconds to nearly 23 hours. Evaluation of 29 LLMs reveals substantial limitations in sustained evidence accumulation and multi-step reasoning for long-horizon EEG analysis.</p>
-  </div>
-</div>
+  </article>
 
-<div class="paper-box project-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">2025.10 - 2026.01</div>
-      <a class="project-figure" href="images/projects/malora-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the MaLoRA framework as a PDF">
-        <img src="images/projects/malora-framework.png" alt="MaLoRA framework: aligning visual and textual keys while preserving modality-specific geometry" width="100%" loading="lazy">
-      </a>
+  <article class="project-row" id="eegagentbench">
+    <a class="project-figure" href="/images/projects/eegagentbench-overview.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the eegagentbench framework as a PDF">
+      <img src="/images/projects/eegagentbench-overview.png" alt="EEGAgentBench overview: six EEG analysis tasks and the agent-environment interaction" width="2397" height="1336" loading="lazy">
+    </a>
+    <div class="project-text">
+      <h3 class="project-title">EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis</h3>
+      <p class="project-date">2026.05 – 2026.09</p>
+      <p class="project-question">Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</p>
+      <p class="project-description">EEGAgentBench evaluates these capabilities through six tasks and 10 deterministic EEG analysis tools, with recordings ranging from 2 seconds to nearly 23 hours. Evaluation of 29 LLMs reveals substantial limitations in sustained evidence accumulation and multi-step reasoning for long-horizon EEG analysis.</p>
+      <nav class="project-links" aria-label="eegagentbench resources">
+        <a href="https://528why.github.io/EEGAgentBench-Page/" target="_blank" rel="noopener noreferrer"><i class="icon icon-globe" aria-hidden="true"></i>Project Page</a>
+        <a href="https://arxiv.org/pdf/2609.31632" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
+        <a href="https://huggingface.co/datasets/whhhy123/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><span class="dataset-icon" aria-hidden="true">🤗</span>Dataset</a>
+        <a href="https://github.com/528why/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><i class="icon icon-github" aria-hidden="true"></i>Code</a>
+      </nav>
     </div>
-  </div>
-  <div class="paper-box-text">
-    <p><strong>MaLoRA: Mitigating Text-Centric Bias in Multimodal Large Language Models through Key-Space Alignment</strong></p>
-    <p><em>We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</em> MaLoRA combines modality-aware gated key adaptation, multi-kernel MMD alignment, and Gram-reference regularization to reduce cross-modal discrepancy while preserving modality-specific geometry. Across multiple MLLM backbones, it improves robustness to text-dominant failures, with its clearest gains on hallucination-sensitive benchmarks.</p>
-  </div>
-</div>
+  </article>
 
-<!-- <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">2026.01 - 2026.05</div>
-      <img src='images/ssp_kg.png' alt="sym" width="60%">
+  <article class="project-row" id="malora">
+    <a class="project-figure" href="/images/projects/malora-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the malora framework as a PDF">
+      <img src="/images/projects/malora-framework.png" alt="MaLoRA framework: aligning visual and textual keys while preserving modality-specific geometry" width="1656" height="1002" loading="lazy">
+    </a>
+    <div class="project-text">
+      <h3 class="project-title">MaLoRA: Mitigating Text-Centric Bias in Multimodal Large Language Models through Key-Space Alignment</h3>
+      <p class="project-date">2025.10 – 2026.01</p>
+      <p class="project-question">We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</p>
+      <p class="project-description">MaLoRA combines modality-aware gated key adaptation, multi-kernel MMD alignment, and Gram-reference regularization to reduce cross-modal discrepancy while preserving modality-specific geometry. Across multiple MLLM backbones, it improves robustness to text-dominant failures, with its clearest gains on hallucination-sensitive benchmarks.</p>
+      <nav class="project-links" aria-label="malora resources">
+        <a href="https://arxiv.org/abs/2510.26721" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
+      </nav>
     </div>
-  </div>
+  </article>
 
-  <div class='paper-box-text' markdown="1">
-**Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents**
-    
-Self-evolving search agents like Search Self-Play (SSP) let a Proposer generate questions and a Solver answer them, but struggle with low-quality questions and sparse binary rewards. We reuse knowledge-graph paths as construction-derived intermediate supervision for both sides: LLM-guided KG subgraphs provide relational context for the Proposer, and Waypoint Coverage Reward (WCR) grants graded partial credit to incorrect Solver trajectories based on intermediate entity coverage. Across seven QA benchmarks and nine model configurations, our approach improves the average score over SSP in all settings, with notable gains on multi-hop QA tasks.
-  </div>
+  <article class="project-row project-row-vex" id="vex">
+    <div class="vex-photos">
+      <img src="/images/vex1.jpg" alt="VEX Robotics Competition" loading="lazy">
+      <img src="/images/vex2.jpg" alt="VEX Robotics Competition team" loading="lazy">
+    </div>
+    <div class="project-text">
+      <h3 class="project-title">VEX Robotics Competition</h3>
+      <p class="project-date">2018.09 – 2019.09</p>
+      <p class="project-description">Led the school's VEX Robotics club, responsible for programming and debugging of the robotic systems. Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.</p>
+      <div class="project-links"></div>
+    </div>
+  </article>
+</section>
+
+<section class="home-section" aria-labelledby="-publications">
+  <div class="section-heading"><h2 id="-publications">Publications</h2></div>
+  <ol class="publication-list">
+
+    <li><div class="publication-venue">NeurIPS 2026</div><div><h3 class="publication-title">Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents</h3><p class="publication-meta"><strong>Wu H</strong>, Liu J, Wei X, Gao Y, Wu Y, Hu Y. Advances in Neural Information Processing Systems, 2026. <span class="author-position">First Author · CCF-A</span></p></div></li>
+
+    <li><div class="publication-venue">NeurIPS 2026</div><div><h3 class="publication-title">When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models</h3><p class="publication-meta"><strong>Wu H</strong>, Tang M, Zheng X, Su D, Jiang H. Advances in Neural Information Processing Systems, 2026. <span class="author-position">First Author · CCF-A</span></p></div></li>
+
+    <li><div class="publication-venue">ICLR 2026</div><div><h3 class="publication-title">Diffusion Models as Dataset Distillation Priors</h3><p class="publication-meta">Su D, <strong>Wu H</strong>, Chen H, Shi Y, Wang Y, Ye X, Zhu J. The Fourteenth International Conference on Learning Representations, 2026. <span class="author-position">Second Author</span></p></div></li>
+
+  </ol>
+  <details class="publication-archive">
+    <summary>View 5 earlier publications</summary>
+    <ol class="publication-list" start="4">
+
+    <li><div class="publication-venue">TMLR 2025</div><div><h3 class="publication-title">Dataset Condensation with Color Compensation</h3><p class="publication-meta"><strong>Wu H</strong>, Su D, Hou J, Li G. Transactions on Machine Learning Research, 2025. <span class="author-position">First Author</span></p></div></li>
+
+    <li><div class="publication-venue">Neural Networks 2025</div><div><h3 class="publication-title">LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification</h3><p class="publication-meta"><strong>Wu H</strong>, Jia B, Yuan X M. Neural Networks, 2025: 108155. <span class="author-position">First Author · CCF-B</span></p></div></li>
+
+    <li><div class="publication-venue">Applied Soft Computing 2024</div><div><h3 class="publication-title">A generalized Lorenz system-based initialization method for deep neural networks</h3><p class="publication-meta">Jia B, Guo Z, Huang T, Guo F, &amp; <strong>Wu H</strong>. Applied Soft Computing, 2024, 167: 112316. <span class="author-position">Last Author · 中科院一区TOP</span></p></div></li>
+
+    <li><div class="publication-venue">ESWA 2024</div><div><h3 class="publication-title">Chaos theory meets deep learning: A new approach to time series forecasting</h3><p class="publication-meta">Jia B, <strong>Wu H</strong>, Guo K. Expert Systems with Applications, 2024, 255: 124533. <span class="author-position">Co-First Author · 中科院一区TOP</span></p></div></li>
+
+    <li><div class="publication-venue">IJCNN 2024</div><div><h3 class="publication-title">Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks</h3><p class="publication-meta"><strong>Wu H</strong>, Jia B, Sheng G. 2024 International Joint Conference on Neural Networks. IEEE, 2024: 1–8. <span class="author-position">First Author · CCF-C</span></p></div></li>
+
+    </ol>
+  </details>
+</section>
+
+<div class="home-section experience-grid">
+
+  <section aria-labelledby="-internships">
+    <div class="section-heading"><h2 id="-internships">Experience</h2></div>
+    <ul class="timeline">
+
+      <li><time>2026.09 – Present</time>Search Algorithm Intern at <strong>ByteDance / TikTok Search Tako</strong></li>
+
+      <li><time>2025.10 – 2026.09</time>Search Algorithm Intern at Xiaohongshu (Beijing)</li>
+
+      <li><time>2024.08 – 2025.09</time>Intern of <a href="https://ml.cs.tsinghua.edu.cn/projects.html" target="_blank" rel="noopener noreferrer">TSAIL - Tsinghua University</a></li>
+
+      <li><time>2023.12 – 2024.04</time>Research Assistant of <a href="https://iora.nus.edu.sg/" target="_blank" rel="noopener noreferrer">National University of Singapore - Institute of Operations Research and Analytics</a> </li>
+
+      <li><time>2022.11 – 2024.08</time>Research Assistant of <a href="https://www.machineilab.org/" target="_blank" rel="noopener noreferrer">Sichuan University - Machine Intelligence Lab</a></li>
+
+    </ul>
+  </section>
+
+  <section aria-labelledby="-educations">
+    <div class="section-heading"><h2 id="-educations">Education</h2></div>
+    <ul class="timeline">
+
+      <li><time>2025.09 – Present</time><strong>M.S.</strong>, Institute of Computing Technology, University of Chinese Academy of Sciences</li>
+
+      <li><time>2021.09 – 2025.06</time><strong>B.S.</strong>, College of Computer Science, Sichuan University</li>
+
+      <li><time>2020.09 – 2021.06</time>Business School, Business Administration, Sichuan University</li>
+
+    </ul>
+  </section>
+
 </div>
- -->
+<div class="home-section details-grid">
 
+  <section aria-labelledby="-honors-and-awards"><div class="section-heading"><h2 id="-honors-and-awards">Honors &amp; Awards</h2></div><ul class="compact-list">
 
+    <li><time>2024.10</time>Huang Qianheng Scholarship.</li>
 
+    <li><time>2023.06</time>Champion, 3rd Youth Campus Volleyball League of Sichuan Province.</li>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018.09 - 2019.09</div><img src='images/vex1.jpg' alt="sym" width="50%"><img src='images/vex2.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-**VEX Robotics Competition**      
-Led the school’s VEX Robotics club, responsible for programming and debugging of the robotic systems.  
-Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.  
+    <li><time>2022.11</time>Second Prize, Asia-Pacific Undergraduate Mathematical Contest in Modeling. </li>
+
+    <li><time>2022.06</time>Third Prize, 2nd Youth Campus Volleyball League of Sichuan Province. </li>
+
+  </ul></section>
+  <section aria-labelledby="-academic-services"><div class="section-heading"><h2 id="-academic-services">Academic Services</h2></div>
+
+    <p class="service-copy"><strong>Conference Reviewer:</strong> IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026, ICME 2026, ACMMM 2026</p>
+
+    <p class="service-copy"><strong>Journal Reviewer:</strong> IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS), Journal of Supercomputing</p>
+
+  </section>
 </div>
-</div>
-
-
-# 🎖 Honors and Awards
-- *2024.10* Huang Qianheng Scholarship.
-- *2023.06* Champion, 3rd Youth Campus Volleyball League of Sichuan Province.
-- *2022.11* Second Prize, Asia-Pacific Undergraduate Mathematical Contest in Modeling. 
-- *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province. 
-
-# 📚 Academic Services
-- **Conference Reviewer:** IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026, ICME 2026, ACMMM 2026
-
-- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS), Journal of Supercomputing
-
-# 🌏 Visitor Map
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7em4cMIIWlwnjcm-0tJhSO8vrChpSZvg-YeTEIOwS44&cl=ffffff&w=a"></script>
-
+<section class="home-section visitor-map" aria-labelledby="-visitor-map">
+  <div class="section-heading"><h2 id="-visitor-map">Visitor Map</h2></div>
+  <script id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=7em4cMIIWlwnjcm-0tJhSO8vrChpSZvg-YeTEIOwS44&amp;cl=ffffff&amp;w=a"></script>
+</section>

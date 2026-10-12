@@ -1,0 +1,36 @@
+---
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include seo.html %}
+    <meta name="description" content="{{ page.excerpt | escape }}">
+    <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  </head>
+  <body class="academic-home">
+    <a class="skip-link" href="#about-me">Skip to content</a>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="site-name" href="#about-me">Huyu Wu</a>
+        <div class="nav-links">
+          <a href="#about-me">About</a>
+          <a href="#-projects">Research</a>
+          <a href="#-publications">Publications</a>
+          <a href="#-internships">Experience</a>
+        </div>
+      </nav>
+    </header>
+    <main class="home-content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <span>Huyu Wu <span lang="zh">伍胡宇</span></span>
+      <a href="#about-me">Back to top ↑</a>
+    </footer>
+    {% include fetch_google_scholar_stats.html %}
+    {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
+  </body>
+</html>
