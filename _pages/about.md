@@ -26,8 +26,9 @@ redirect_from:
   </aside>
   <div class="about">
     <h1 class="eyebrow">About</h1>
-    <p class="about-copy">I am a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences (ICT)</a>.</p>
-    <p class="about-copy">My research interests include LLM agents, multimodal models, and dataset distillation.</p>
+    <p class="about-copy">I'm a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences</a>. My earlier research focused on <strong>multimodal models and dataset distillation</strong>—how models use information across modalities and learn more efficiently from data.</p>
+    <p class="about-copy">Recently, my focus has shifted toward <strong>LLM agents</strong>, particularly <strong>search agents, self-evolving agents, and long-horizon tasks</strong>. I'm interested in how agents can improve through experience and carry out tasks that require sustained exploration and multi-step reasoning.</p>
+    <p class="about-copy">I've had research experience in both academic labs and industry teams, and I'm always happy to exchange ideas or explore <strong>collaborations</strong>. Outside of research, I enjoy playing volleyball.</p>
     <div class="current-role">
       <p class="eyebrow">Current role</p>
       <div class="role-row">
@@ -43,16 +44,16 @@ redirect_from:
   <section class="news" aria-labelledby="-news">
     <h2 class="eyebrow" id="-news">News</h2>
     <ul class="news-list">
-      <li><time datetime="2026-09">2026.09</time>I joined ByteDance as a Search Algorithm Intern on the TikTok Search Tako team.</li>
-      <li><time datetime="2026-09">2026.09</time>Two papers are accepted by NeurIPS 2026.</li>
-      <li><time datetime="2026-02">2026.02</time>One paper is accepted by ICLR 2026.</li>
+      <li><span class="news-line"><time datetime="2026-09">2026.09</time> Joined <strong>ByteDance</strong></span><span class="news-line">Search Intern · <strong>TikTok Tako</strong></span></li>
+      <li><span class="news-line"><time datetime="2026-09">2026.09</time> <strong>Two papers</strong> accepted</span><span class="news-line">at <strong>NeurIPS 2026</strong>.</span></li>
+      <li><span class="news-line"><time datetime="2026-02">2026.02</time> One paper accepted</span><span class="news-line">at <strong>ICLR 2026</strong>.</span></li>
     </ul>
     <details class="news-archive">
       <summary>Earlier news</summary>
       <ul>
-        <li><time datetime="2025-10">2025.10</time> — One paper is accepted by Transactions on Machine Learning Research.</li>
-        <li><time datetime="2025-10">2025.10</time> — I joined Xiaohongshu as a Research Intern to work on Agentic Search.</li>
-        <li><time datetime="2025-09">2025.09</time> — One paper is accepted by Neural Networks.</li>
+        <li><time datetime="2025-10">2025.10</time> — One paper accepted at <strong>Transactions on Machine Learning Research</strong>.</li>
+        <li><time datetime="2025-10">2025.10</time> — Joined <strong>Xiaohongshu</strong> as a Research Intern, working on <strong>Agentic Search</strong>.</li>
+        <li><time datetime="2025-09">2025.09</time> — One paper accepted at <strong>Neural Networks</strong>.</li>
       </ul>
     </details>
   </section>

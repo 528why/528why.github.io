@@ -66,6 +66,7 @@ button, summary { font: inherit; }
 .eyebrow::after { content: ""; height: 1px; background: var(--line); flex: 1; }
 .about-copy { color: #35424d; font-size: 16px; font-weight: 400; line-height: 1.8; }
 .about-copy + .about-copy { margin-top: 12px; }
+.about-copy strong, .news strong { font-weight: 600; color: var(--ink); }
 .current-role { border-top: 1px solid var(--line); margin-top: 28px; padding-top: 22px; }
 .current-role .eyebrow { margin-bottom: 14px; }
 .role-row { display: flex; align-items: flex-start; gap: 15px; }
@@ -78,7 +79,8 @@ button, summary { font: inherit; }
 .news-list li { position: relative; padding: 0 0 20px; font-size: 14px; line-height: 1.6; }
 .news-list li:last-child { padding-bottom: 0; }
 .news-list li::before { content: ""; position: absolute; left: -24px; top: 8px; width: 7px; height: 7px; border-radius: 50%; background: var(--red); }
-.news-list time { display: block; color: var(--red); font-size: 13px; font-weight: 500; margin-bottom: 4px; }
+.news-line { display: block; }
+.news-list time { display: inline-block; color: var(--red); font-size: 13px; font-weight: 500; margin-right: 9px; }
 .news-archive { font-size: 13px; margin-top: 18px; }
 .news-archive summary, .publication-archive summary { color: var(--blue); cursor: pointer; }
 .news-archive ul { list-style: none; padding: 12px 0 0; margin: 0; display: grid; gap: 12px; color: var(--muted); }
