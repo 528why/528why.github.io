@@ -8,15 +8,17 @@ its geometry or colors.
 
 Experience and education assets, retrieved on 2026-10-12:
 - Xiaohongshu: Simple Icons xiaohongshu.svg (https://github.com/simple-icons/simple-icons); displayed in brand red.
-- Tsinghua: https://www.tsinghua.edu.cn/favicon.ico
+- Tsinghua (replaced 2026-10-13): https://vi.tsinghua.edu.cn/__local/8/1C/21/2F02A66E31BF084FE340463BB47_B9A95F73_185BC.jpg
+  Official source page: https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm
+  1400 × 600 original; CSS displays its full, undistorted central seal.
 - NUS: https://nus.edu.sg/images/default-source/base/logo.png
 - UCAS: https://www.cas.cn/zz/yk/201410/W020141016582676725624.jpg
-- Sichuan University: https://www.scu.edu.cn/images/logo.png
+- Sichuan University (replaced 2026-10-13): https://archives.scu.edu.cn/__local/3/E0/D0/E4CE57DA487EE983970FE23817D_7ED6B06B_1BBAC.jpg
+  Official source page: https://archives.scu.edu.cn/xh1.htm
+  Complete red seal, 392 × 408 original.
 
-Sichuan provides white transparent artwork; the page displays this as a
-red seal on white using CSS, with original geometry intact. Only the
-seal at the left of its official lockup is shown. UCAS uses the complete
-Chinese Academy of Sciences emblem, from the academy's emblem explanation page.
+UCAS uses the complete Chinese Academy of Sciences emblem confirmed by
+the site owner, from the academy's emblem explanation page.
 
 Project questions use locally hosted Lora Italic from Google Fonts:
 https://github.com/google/fonts/tree/main/ofl/lora

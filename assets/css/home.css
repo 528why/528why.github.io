@@ -64,13 +64,13 @@ button, summary { font: inherit; }
 .profile-links a { display: inline-flex; align-items: center; gap: 9px; }
 .eyebrow { display: flex; align-items: center; gap: 16px; color: var(--blue); font-size: 11px; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; margin-bottom: 16px; }
 .eyebrow::after { content: ""; height: 1px; background: var(--line); flex: 1; }
-.about-title { font-size: clamp(24px, 2.05vw, 30px); font-weight: 700; letter-spacing: -.035em; line-height: 1.34; margin-bottom: 16px; }
-.about-copy { color: #4b5964; font-size: 15px; line-height: 1.65; }
+.about-copy { color: #35424d; font-size: 16px; font-weight: 400; line-height: 1.8; }
+.about-copy + .about-copy { margin-top: 12px; }
 .current-role { border-top: 1px solid var(--line); margin-top: 28px; padding-top: 22px; }
 .current-role .eyebrow { margin-bottom: 14px; }
 .role-row { display: flex; align-items: flex-start; gap: 15px; }
 .company-logo { width: 49px; height: 44px; object-fit: none; object-position: left center; flex-shrink: 0; }
-.role-title { font-size: 16px; font-weight: 700; line-height: 1.5; }
+.role-title { font-size: 16px; font-weight: 600; line-height: 1.5; }
 .role-date { color: var(--red); font-size: 13px; margin-top: 2px; }
 .role-copy { font-size: 14px; color: var(--muted); margin-top: 5px; }
 .news { border-left: 1px solid var(--line); padding-left: 27px; }
@@ -87,7 +87,6 @@ button, summary { font: inherit; }
 .section-heading { display: flex; align-items: baseline; gap: 24px; margin-bottom: 23px; }
 .section-heading h2 { font-family: var(--serif); font-size: 33px; letter-spacing: -.025em; }
 .section-heading::after { content: ""; height: 1px; background: var(--line); flex: 1; }
-.section-caption { color: var(--muted); font-size: 11px; letter-spacing: .06em; }
 .project-row { display: grid; grid-template-columns: minmax(0, 1.06fr) minmax(0, 1fr); gap: 40px; padding: 25px 0; border-top: 1px solid var(--line); align-items: center; }
 .project-row:first-of-type { border-top: 0; padding-top: 0; }
 .project-figure { display: block; border: 1px solid #e5ebee; background: #fff; padding: 4px; }
@@ -96,6 +95,8 @@ button, summary { font: inherit; }
 .project-text { min-width: 0; }
 .project-title { font-family: var(--serif); font-size: clamp(22px, 1.9vw, 27px); font-weight: 700; letter-spacing: -.025em; margin-bottom: 7px; }
 .project-date { font-size: 13px; color: var(--red); margin-bottom: 18px; }
+.project-status { display: inline-block; color: #466477; font-weight: 500; margin-left: 16px; }
+.project-status::before { content: "·"; color: #94a6af; margin-right: 10px; }
 .project-question { border-left: 2px solid #bd7c72; padding-left: 14px; font-family: "Lora", var(--serif); font-weight: 600; font-style: italic; font-size: 17px; line-height: 1.65; color: #293b47; margin-bottom: 14px; }
 .project-question strong { font-weight: inherit; }
 .project-description { font-size: 14px; line-height: 1.7; color: #4b5964; }
@@ -121,10 +122,10 @@ button, summary { font: inherit; }
 .institution-mark img { max-width: 64px; max-height: 48px; object-fit: contain; }
 .institution-mark .bytedance-mark { width: 49px; height: 44px; object-fit: none; object-position: left center; }
 .institution-mark .xiaohongshu-mark { width: 52px; height: 40px; }
-.institution-mark .tsinghua-mark { width: 42px; height: 42px; }
+.tsinghua-seal { display: block; position: relative; width: 48px; height: 48px; overflow: hidden; }
+.institution-mark .tsinghua-mark { position: absolute; width: 153.424px; height: 65.753px; max-width: none; max-height: none; left: -51.507px; top: -8.219px; }
 .institution-mark .ucas-mark { width: 48px; height: 48px; }
-.sichuan-seal { display: block; width: 48px; height: 48px; overflow: hidden; }
-.institution-mark .sichuan-mark { width: auto; height: 48px; max-width: none; max-height: none; filter: brightness(0) saturate(100%) invert(20%) sepia(71%) saturate(2300%) hue-rotate(336deg) brightness(88%) contrast(98%); }
+.institution-mark .sichuan-mark { width: 48px; height: 48px; }
 .timeline .institution { display: block; color: #27313a; font-size: 16px; font-weight: 650; line-height: 1.45; }
 .timeline a.institution:hover { color: var(--blue); }
 .timeline .position { color: #414e59; line-height: 1.55; margin-top: 4px; }
@@ -141,7 +142,6 @@ button, summary { font: inherit; }
   .profile { padding-right: 18px; }
   .profile-avatar, .profile-photo { width: 120px; height: 120px; }
   .profile-name { font-size: 26px; }
-  .about-title { font-size: 23px; }
   .news { padding-left: 20px; }
   .project-row { gap: 28px; }
   .project-title { font-size: 23px; }
@@ -152,7 +152,6 @@ button, summary { font: inherit; }
   .news-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 25px; border: 0; padding: 0; }
   .news-list li { padding: 0 0 0 13px; }
   .news-list li::before { left: 0; top: 7px; width: 5px; height: 5px; }
-  .section-caption { display: none; }
   .project-row { grid-template-columns: minmax(0, .9fr) minmax(0, 1fr); gap: 24px; align-items: start; }
   .project-title { font-size: 21px; }
 }
@@ -172,8 +171,7 @@ button, summary { font: inherit; }
   .profile-links { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 12px; }
   .profile-links a { gap: 6px; }
   .about { border-top: 1px solid var(--line); padding-top: 23px; }
-  .about-title { font-size: 23px; }
-  .about-copy { font-size: 14px; }
+  .about-copy { font-size: 15px; }
   .current-role { margin-top: 23px; padding-top: 20px; }
   .role-title { font-size: 15px; }
   .role-copy { font-size: 13px; }

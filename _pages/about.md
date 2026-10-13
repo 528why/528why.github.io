@@ -25,9 +25,9 @@ redirect_from:
     </ul>
   </aside>
   <div class="about">
-    <p class="eyebrow">About</p>
-    <h1 class="about-title">M.S. student working on LLM agents, multimodal models, and dataset distillation.</h1>
-    <p class="about-copy">I am a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences (ICT)</a>. My research covers efficient data representation, modality bias, and LLM-based agents.</p>
+    <h1 class="eyebrow">About</h1>
+    <p class="about-copy">I am a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences (ICT)</a>.</p>
+    <p class="about-copy">My research interests include LLM agents, multimodal models, and dataset distillation.</p>
     <div class="current-role">
       <p class="eyebrow">Current role</p>
       <div class="role-row">
@@ -56,72 +56,6 @@ redirect_from:
       </ul>
     </details>
   </section>
-</section>
-
-<section class="home-section research" aria-labelledby="-projects">
-  <div class="section-heading">
-    <h2 id="-projects">Research Projects</h2>
-    <span class="section-caption">LLM agents · Multimodal models · Efficient learning</span>
-  </div>
-
-  <article class="project-row" id="dl-opsd">
-    <a class="project-figure" href="/images/projects/dl-opsd-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the dl-opsd framework as a PDF">
-      <img src="/images/projects/dl-opsd-framework.png" alt="DL-OPSD framework: skill internalization through trajectory-level selection and token-level weighting" width="2141" height="1078" loading="lazy">
-    </a>
-    <div class="project-text">
-      <h3 class="project-title">DL-OPSD: Dual-Level Selective On-Policy Self-Distillation for Skill Internalization</h3>
-      <p class="project-date">2026.05 – 2026.09</p>
-      <p class="project-question"><strong><em>When self-guidance and execution feedback disagree, how should a model learn from itself?</em></strong></p>
-      <p class="project-description">DL-OPSD selects positive-advantage trajectories for auxiliary distillation and weights teacher-supported tokens according to student uncertainty and teacher certainty. Reinforcement learning uses all trajectories, and the student requires no skill access at inference.</p>
-      <div class="project-links"><!-- Add confirmed project, paper, dataset, and code links here. --></div>
-    </div>
-  </article>
-
-  <article class="project-row" id="eegagentbench">
-    <a class="project-figure" href="/images/projects/eegagentbench-overview.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the eegagentbench framework as a PDF">
-      <img src="/images/projects/eegagentbench-overview.png" alt="EEGAgentBench overview: six EEG analysis tasks and the agent-environment interaction" width="2397" height="1336" loading="lazy">
-    </a>
-    <div class="project-text">
-      <h3 class="project-title">EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis</h3>
-      <p class="project-date">2026.05 – 2026.09</p>
-      <p class="project-question"><strong><em>Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</em></strong></p>
-      <p class="project-description">EEGAgentBench evaluates these capabilities through six tasks and 10 deterministic EEG analysis tools, with recordings ranging from 2 seconds to nearly 23 hours. Evaluation of 29 LLMs reveals substantial limitations in sustained evidence accumulation and multi-step reasoning for long-horizon EEG analysis.</p>
-      <nav class="project-links" aria-label="eegagentbench resources">
-        <a href="https://528why.github.io/EEGAgentBench-Page/" target="_blank" rel="noopener noreferrer"><i class="icon icon-globe" aria-hidden="true"></i>Project Page</a>
-        <a href="https://arxiv.org/pdf/2609.31632" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
-        <a href="https://huggingface.co/datasets/whhhy123/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><span class="dataset-icon" aria-hidden="true">🤗</span>Dataset</a>
-        <a href="https://github.com/528why/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><i class="icon icon-github" aria-hidden="true"></i>Code</a>
-      </nav>
-    </div>
-  </article>
-
-  <article class="project-row" id="malora">
-    <a class="project-figure" href="/images/projects/malora-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the malora framework as a PDF">
-      <img src="/images/projects/malora-framework.png" alt="MaLoRA framework: aligning visual and textual keys while preserving modality-specific geometry" width="1656" height="1002" loading="lazy">
-    </a>
-    <div class="project-text">
-      <h3 class="project-title">MaLoRA: Mitigating Text-Centric Bias in Multimodal Large Language Models through Key-Space Alignment</h3>
-      <p class="project-date">2025.10 – 2026.01</p>
-      <p class="project-question"><strong><em>We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</em></strong></p>
-      <p class="project-description">MaLoRA combines modality-aware gated key adaptation, multi-kernel MMD alignment, and Gram-reference regularization to reduce cross-modal discrepancy while preserving modality-specific geometry. Across multiple MLLM backbones, it improves robustness to text-dominant failures, with its clearest gains on hallucination-sensitive benchmarks.</p>
-      <nav class="project-links" aria-label="malora resources">
-        <a href="https://arxiv.org/abs/2510.26721" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
-      </nav>
-    </div>
-  </article>
-
-  <article class="project-row project-row-vex" id="vex">
-    <div class="vex-photos">
-      <img src="/images/vex1.jpg" alt="VEX Robotics Competition" loading="lazy">
-      <img src="/images/vex2.jpg" alt="VEX Robotics Competition team" loading="lazy">
-    </div>
-    <div class="project-text">
-      <h3 class="project-title">VEX Robotics Competition</h3>
-      <p class="project-date">2018.09 – 2019.09</p>
-      <p class="project-description">Led the school's VEX Robotics club, responsible for programming and debugging of the robotic systems. Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.</p>
-      <div class="project-links"></div>
-    </div>
-  </article>
 </section>
 
 <section class="home-section" aria-labelledby="-publications">
@@ -153,6 +87,71 @@ redirect_from:
   </details>
 </section>
 
+<section class="home-section research" aria-labelledby="-projects">
+  <div class="section-heading">
+    <h2 id="-projects">Projects</h2>
+  </div>
+
+  <article class="project-row" id="dl-opsd">
+    <a class="project-figure" href="/images/projects/dl-opsd-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the dl-opsd framework as a PDF">
+      <img src="/images/projects/dl-opsd-framework.png" alt="DL-OPSD framework: skill internalization through trajectory-level selection and token-level weighting" width="2141" height="1078" loading="lazy">
+    </a>
+    <div class="project-text">
+      <h3 class="project-title">DL-OPSD: Dual-Level Selective On-Policy Self-Distillation for Skill Internalization</h3>
+      <p class="project-date">2026.05 – 2026.09 <span class="project-status">Under review</span></p>
+      <p class="project-question"><strong><em>When self-guidance and execution feedback disagree, how should a model learn from itself?</em></strong></p>
+      <p class="project-description">DL-OPSD selects positive-advantage trajectories for auxiliary distillation and weights teacher-supported tokens according to student uncertainty and teacher certainty. Reinforcement learning uses all trajectories, and the student requires no skill access at inference.</p>
+      <div class="project-links"><!-- Add confirmed project, paper, dataset, and code links here. --></div>
+    </div>
+  </article>
+
+  <article class="project-row" id="eegagentbench">
+    <a class="project-figure" href="/images/projects/eegagentbench-overview.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the eegagentbench framework as a PDF">
+      <img src="/images/projects/eegagentbench-overview.png" alt="EEGAgentBench overview: six EEG analysis tasks and the agent-environment interaction" width="2397" height="1336" loading="lazy">
+    </a>
+    <div class="project-text">
+      <h3 class="project-title">EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis</h3>
+      <p class="project-date">2026.05 – 2026.09 <span class="project-status">Under review</span></p>
+      <p class="project-question"><strong><em>Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</em></strong></p>
+      <p class="project-description">EEGAgentBench evaluates these capabilities through six tasks and 10 deterministic EEG analysis tools, with recordings ranging from 2 seconds to nearly 23 hours. Evaluation of 29 LLMs reveals substantial limitations in sustained evidence accumulation and multi-step reasoning for long-horizon EEG analysis.</p>
+      <nav class="project-links" aria-label="eegagentbench resources">
+        <a href="https://528why.github.io/EEGAgentBench-Page/" target="_blank" rel="noopener noreferrer"><i class="icon icon-globe" aria-hidden="true"></i>Project Page</a>
+        <a href="https://arxiv.org/pdf/2609.31632" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
+        <a href="https://huggingface.co/datasets/whhhy123/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><span class="dataset-icon" aria-hidden="true">🤗</span>Dataset</a>
+        <a href="https://github.com/528why/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><i class="icon icon-github" aria-hidden="true"></i>Code</a>
+      </nav>
+    </div>
+  </article>
+
+  <article class="project-row" id="malora">
+    <a class="project-figure" href="/images/projects/malora-framework.pdf" target="_blank" rel="noopener noreferrer" aria-label="View the malora framework as a PDF">
+      <img src="/images/projects/malora-framework.png" alt="MaLoRA framework: aligning visual and textual keys while preserving modality-specific geometry" width="1656" height="1002" loading="lazy">
+    </a>
+    <div class="project-text">
+      <h3 class="project-title">MaLoRA: Mitigating Text-Centric Bias in Multimodal Large Language Models through Key-Space Alignment</h3>
+      <p class="project-date">2025.10 – 2026.01 <span class="project-status">Under review</span></p>
+      <p class="project-question"><strong><em>We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</em></strong></p>
+      <p class="project-description">MaLoRA combines modality-aware gated key adaptation, multi-kernel MMD alignment, and Gram-reference regularization to reduce cross-modal discrepancy while preserving modality-specific geometry. Across multiple MLLM backbones, it improves robustness to text-dominant failures, with its clearest gains on hallucination-sensitive benchmarks.</p>
+      <nav class="project-links" aria-label="malora resources">
+        <a href="https://arxiv.org/abs/2510.26721" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
+      </nav>
+    </div>
+  </article>
+
+  <article class="project-row project-row-vex" id="vex">
+    <div class="vex-photos">
+      <img src="/images/vex1.jpg" alt="VEX Robotics Competition" loading="lazy">
+      <img src="/images/vex2.jpg" alt="VEX Robotics Competition team" loading="lazy">
+    </div>
+    <div class="project-text">
+      <h3 class="project-title">VEX Robotics Competition</h3>
+      <p class="project-date">2018.09 – 2019.09</p>
+      <p class="project-description">Led the school's VEX Robotics club, responsible for programming and debugging of the robotic systems. Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open and the World Championships in the United States during the 2018 season.</p>
+      <div class="project-links"></div>
+    </div>
+  </article>
+</section>
+
 <div class="home-section experience-grid">
 
   <section aria-labelledby="-internships">
@@ -162,11 +161,11 @@ redirect_from:
 
       <li><span class="institution-mark" aria-hidden="true"><img class="xiaohongshu-mark" src="/images/brands/xiaohongshu.svg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">Xiaohongshu (Beijing)</strong><p class="position">Search Algorithm Intern</p><time>2025.10 – 2026.09</time></div></li>
 
-      <li><span class="institution-mark" aria-hidden="true"><img class="tsinghua-mark" src="/images/brands/tsinghua.ico" alt="" width="64" height="56" loading="lazy"></span><div><a class="institution" href="https://ml.cs.tsinghua.edu.cn/projects.html" target="_blank" rel="noopener noreferrer">Tsinghua University · TSAIL</a><p class="position">Intern</p><time>2024.08 – 2025.09</time></div></li>
+      <li><span class="institution-mark" aria-hidden="true"><span class="tsinghua-seal"><img class="tsinghua-mark" src="/images/brands/tsinghua-seal.jpg" alt="" width="1400" height="600" loading="lazy"></span></span><div><a class="institution" href="https://ml.cs.tsinghua.edu.cn/projects.html" target="_blank" rel="noopener noreferrer">Tsinghua University · TSAIL</a><p class="position">Intern</p><time>2024.08 – 2025.09</time></div></li>
 
       <li><span class="institution-mark" aria-hidden="true"><img class="" src="/images/brands/nus.png" alt="" width="64" height="56" loading="lazy"></span><div><a class="institution" href="https://iora.nus.edu.sg/" target="_blank" rel="noopener noreferrer">National University of Singapore</a><p class="position">Research Assistant · Institute of Operations Research and Analytics</p><time>2023.12 – 2024.04</time></div></li>
 
-      <li><span class="institution-mark" aria-hidden="true"><span class="sichuan-seal"><img class="sichuan-mark" src="/images/brands/sichuan.png" alt="" width="64" height="56" loading="lazy"></span></span><div><a class="institution" href="https://www.machineilab.org/" target="_blank" rel="noopener noreferrer">Sichuan University</a><p class="position">Research Assistant · Machine Intelligence Lab</p><time>2022.11 – 2024.08</time></div></li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="sichuan-mark" src="/images/brands/sichuan.jpg" alt="" width="64" height="56" loading="lazy"></span><div><a class="institution" href="https://www.machineilab.org/" target="_blank" rel="noopener noreferrer">Sichuan University</a><p class="position">Research Assistant · Machine Intelligence Lab</p><time>2022.11 – 2024.08</time></div></li>
     </ul>
   </section>
 
@@ -175,9 +174,9 @@ redirect_from:
     <ul class="timeline">
       <li><span class="institution-mark" aria-hidden="true"><img class="ucas-mark" src="/images/brands/ucas.jpg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">University of Chinese Academy of Sciences</strong><p class="position">M.S. · Institute of Computing Technology</p><time>2025.09 – Present</time></div></li>
 
-      <li><span class="institution-mark" aria-hidden="true"><span class="sichuan-seal"><img class="sichuan-mark" src="/images/brands/sichuan.png" alt="" width="64" height="56" loading="lazy"></span></span><div><strong class="institution">Sichuan University</strong><p class="position">B.S. · College of Computer Science</p><time>2021.09 – 2025.06</time></div></li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="sichuan-mark" src="/images/brands/sichuan.jpg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">Sichuan University</strong><p class="position">B.S. · College of Computer Science</p><time>2021.09 – 2025.06</time></div></li>
 
-      <li><span class="institution-mark" aria-hidden="true"><span class="sichuan-seal"><img class="sichuan-mark" src="/images/brands/sichuan.png" alt="" width="64" height="56" loading="lazy"></span></span><div><strong class="institution">Sichuan University</strong><p class="position">Business Administration · Business School</p><time>2020.09 – 2021.06</time></div></li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="sichuan-mark" src="/images/brands/sichuan.jpg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">Sichuan University</strong><p class="position">Business Administration · Business School</p><time>2020.09 – 2021.06</time></div></li>
     </ul>
   </section>
 
