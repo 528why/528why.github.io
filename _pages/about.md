@@ -26,9 +26,7 @@ redirect_from:
   </aside>
   <div class="about">
     <h1 class="eyebrow">About</h1>
-    <p class="about-copy">I'm a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences</a>. My earlier research focused on <strong>multimodal models and dataset distillation</strong>—how models use information across modalities and learn more efficiently from data.</p>
-    <p class="about-copy">Recently, my focus has shifted toward <strong>LLM agents</strong>, particularly <strong>search agents, self-evolving agents, and long-horizon tasks</strong>. I'm interested in how agents can improve through experience and carry out tasks that require sustained exploration and multi-step reasoning.</p>
-    <p class="about-copy">I've had research experience in both academic labs and industry teams, and I'm always happy to exchange ideas or explore <strong>collaborations</strong>. Outside of research, I enjoy playing volleyball.</p>
+    <p class="about-copy">I'm a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences</a>. My earlier work focused on <strong>multimodal models and dataset distillation</strong>. I now focus on <strong>LLM agents</strong>, especially search agents, self-evolution, and long-horizon tasks. I've worked in both academic labs and industry teams, and welcome ideas and collaborations. Outside of research, I enjoy playing volleyball.</p>
     <div class="current-role">
       <p class="eyebrow">Current role</p>
       <div class="role-row">
