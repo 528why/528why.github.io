@@ -27,18 +27,22 @@ redirect_from:
   <div class="about">
     <h1 class="eyebrow">About</h1>
     <p class="about-copy">I'm a second-year master's student at the <a href="https://www.ict.cas.cn/" target="_blank" rel="noopener noreferrer">Institute of Computing Technology, Chinese Academy of Sciences</a>. My earlier work focused on <strong>multimodal models and dataset distillation</strong>. I now focus on <strong>LLM agents</strong>, especially search agents, self-evolution, and long-horizon tasks. I've worked in both academic labs and industry teams, and welcome ideas and collaborations. Outside of research, I enjoy playing volleyball.</p>
-    <div class="current-role">
-      <p class="eyebrow">Current role</p>
-      <div class="role-row">
-        <img class="company-logo" src="{{ '/images/brands/bytedance.svg' | relative_url }}" alt="ByteDance" width="49" height="44">
-        <div>
-          <p class="role-title">Search Algorithm Intern · ByteDance / TikTok Tako</p>
-          <p class="role-date">Sep 2026 – Present</p>
-          <p class="role-copy">Building LLM-based agents for the comment section in TikTok Search.</p>
-        </div>
+  </div>
+  <section class="current-role" aria-labelledby="-current-role">
+    <p class="eyebrow" id="-current-role">Current role</p>
+    <div class="role-row">
+      <img class="company-logo" src="{{ '/images/brands/bytedance.svg' | relative_url }}" alt="ByteDance" width="49" height="44">
+      <div class="role-primary">
+        <p class="role-title">Search Algorithm Intern · ByteDance / TikTok Tako</p>
+        <p class="role-date">Sep 2026 – Present</p>
+        <p class="role-copy">Building LLM-based agents for the comment section in TikTok Search.</p>
+      </div>
+      <div class="role-focus">
+        <p class="role-focus-label">Research focus</p>
+        <p>Search Agents <span>·</span> Self-Evolution <span>·</span> Long-Horizon Tasks</p>
       </div>
     </div>
-  </div>
+  </section>
   <section class="news" aria-labelledby="-news">
     <h2 class="eyebrow" id="-news">News</h2>
     <ul class="news-list">
@@ -61,26 +65,26 @@ redirect_from:
   <div class="section-heading"><h2 id="-publications">Publications</h2></div>
   <ol class="publication-list">
 
-    <li><div class="publication-venue">NeurIPS 2026</div><div><h3 class="publication-title">Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents</h3><p class="publication-meta"><strong>Wu H</strong>, Liu J, Wei X, Gao Y, Wu Y, Hu Y. Advances in Neural Information Processing Systems, 2026. <span class="author-position">First Author · CCF-A</span></p></div></li>
+    <li><div class="publication-index"><span>01</span><time>2026</time></div><div class="publication-body"><h3 class="publication-title">Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents</h3><p class="publication-authors"><strong>Wu H</strong>, Liu J, Wei X, Gao Y, Wu Y, Hu Y</p><div class="publication-facts"><span class="publication-venue">NeurIPS 2026</span><span class="author-position">First Author</span><span class="publication-rank">CCF-A</span></div></div></li>
 
-    <li><div class="publication-venue">NeurIPS 2026</div><div><h3 class="publication-title">When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models</h3><p class="publication-meta"><strong>Wu H</strong>, Tang M, Zheng X, Su D, Jiang H. Advances in Neural Information Processing Systems, 2026. <span class="author-position">First Author · CCF-A</span></p></div></li>
+    <li><div class="publication-index"><span>02</span><time>2026</time></div><div class="publication-body"><h3 class="publication-title">When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models</h3><p class="publication-authors"><strong>Wu H</strong>, Tang M, Zheng X, Su D, Jiang H</p><div class="publication-facts"><span class="publication-venue">NeurIPS 2026</span><span class="author-position">First Author</span><span class="publication-rank">CCF-A</span></div></div></li>
 
-    <li><div class="publication-venue">ICLR 2026</div><div><h3 class="publication-title">Diffusion Models as Dataset Distillation Priors</h3><p class="publication-meta">Su D, <strong>Wu H</strong>, Chen H, Shi Y, Wang Y, Ye X, Zhu J. The Fourteenth International Conference on Learning Representations, 2026. <span class="author-position">Second Author</span></p></div></li>
+    <li><div class="publication-index"><span>03</span><time>2026</time></div><div class="publication-body"><h3 class="publication-title">Diffusion Models as Dataset Distillation Priors</h3><p class="publication-authors">Su D, <strong>Wu H</strong>, Chen H, Shi Y, Wang Y, Ye X, Zhu J</p><div class="publication-facts"><span class="publication-venue">ICLR 2026</span><span class="author-position">Second Author</span><span class="publication-rank">CCF-A</span></div></div></li>
 
   </ol>
   <details class="publication-archive">
     <summary>View 5 earlier publications</summary>
     <ol class="publication-list" start="4">
 
-    <li><div class="publication-venue">TMLR 2025</div><div><h3 class="publication-title">Dataset Condensation with Color Compensation</h3><p class="publication-meta"><strong>Wu H</strong>, Su D, Hou J, Li G. Transactions on Machine Learning Research, 2025. <span class="author-position">First Author</span></p></div></li>
+    <li><div class="publication-index"><span>04</span><time>2025</time></div><div class="publication-body"><h3 class="publication-title">Dataset Condensation with Color Compensation</h3><p class="publication-authors"><strong>Wu H</strong>, Su D, Hou J, Li G</p><div class="publication-facts"><span class="publication-venue">TMLR 2025</span><span class="author-position">First Author</span></div></div></li>
 
-    <li><div class="publication-venue">Neural Networks 2025</div><div><h3 class="publication-title">LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification</h3><p class="publication-meta"><strong>Wu H</strong>, Jia B, Yuan X M. Neural Networks, 2025: 108155. <span class="author-position">First Author · CCF-B</span></p></div></li>
+    <li><div class="publication-index"><span>05</span><time>2025</time></div><div class="publication-body"><h3 class="publication-title">LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification</h3><p class="publication-authors"><strong>Wu H</strong>, Jia B, Yuan X M</p><div class="publication-facts"><span class="publication-venue">Neural Networks 2025</span><span class="author-position">First Author</span><span class="publication-rank">CCF-B</span></div></div></li>
 
-    <li><div class="publication-venue">Applied Soft Computing 2024</div><div><h3 class="publication-title">A generalized Lorenz system-based initialization method for deep neural networks</h3><p class="publication-meta">Jia B, Guo Z, Huang T, Guo F, &amp; <strong>Wu H</strong>. Applied Soft Computing, 2024, 167: 112316. <span class="author-position">Last Author · 中科院一区TOP</span></p></div></li>
+    <li><div class="publication-index"><span>06</span><time>2024</time></div><div class="publication-body"><h3 class="publication-title">A generalized Lorenz system-based initialization method for deep neural networks</h3><p class="publication-authors">Jia B, Guo Z, Huang T, Guo F, &amp; <strong>Wu H</strong></p><div class="publication-facts"><span class="publication-venue">Applied Soft Computing 2024</span><span class="author-position">Last Author</span><span class="publication-rank">中科院一区 TOP</span></div></div></li>
 
-    <li><div class="publication-venue">ESWA 2024</div><div><h3 class="publication-title">Chaos theory meets deep learning: A new approach to time series forecasting</h3><p class="publication-meta">Jia B, <strong>Wu H</strong>, Guo K. Expert Systems with Applications, 2024, 255: 124533. <span class="author-position">Co-First Author · 中科院一区TOP</span></p></div></li>
+    <li><div class="publication-index"><span>07</span><time>2024</time></div><div class="publication-body"><h3 class="publication-title">Chaos theory meets deep learning: A new approach to time series forecasting</h3><p class="publication-authors">Jia B, <strong>Wu H</strong>, Guo K</p><div class="publication-facts"><span class="publication-venue">ESWA 2024</span><span class="author-position">Co-First Author</span><span class="publication-rank">中科院一区 TOP</span></div></div></li>
 
-    <li><div class="publication-venue">IJCNN 2024</div><div><h3 class="publication-title">Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks</h3><p class="publication-meta"><strong>Wu H</strong>, Jia B, Sheng G. 2024 International Joint Conference on Neural Networks. IEEE, 2024: 1–8. <span class="author-position">First Author · CCF-C</span></p></div></li>
+    <li><div class="publication-index"><span>08</span><time>2024</time></div><div class="publication-body"><h3 class="publication-title">Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks</h3><p class="publication-authors"><strong>Wu H</strong>, Jia B, Sheng G</p><div class="publication-facts"><span class="publication-venue">IJCNN 2024</span><span class="author-position">First Author</span><span class="publication-rank">CCF-C</span></div></div></li>
 
     </ol>
   </details>
@@ -97,7 +101,7 @@ redirect_from:
     </a>
     <div class="project-text">
       <h3 class="project-title">DL-OPSD: Dual-Level Selective On-Policy Self-Distillation for Skill Internalization</h3>
-      <p class="project-date">2026.05 – 2026.09 <span class="project-status">Under review</span></p>
+      <p class="project-date">2026.05 – 2026.09 <span class="project-status">Submitted to <strong>ICLR 2027</strong></span></p>
       <p class="project-question"><strong><em>When self-guidance and execution feedback disagree, how should a model learn from itself?</em></strong></p>
       <p class="project-description">DL-OPSD selects positive-advantage trajectories for auxiliary distillation and weights teacher-supported tokens according to student uncertainty and teacher certainty. Reinforcement learning uses all trajectories, and the student requires no skill access at inference.</p>
       <div class="project-links"><!-- Add confirmed project, paper, dataset, and code links here. --></div>
@@ -110,13 +114,13 @@ redirect_from:
     </a>
     <div class="project-text">
       <h3 class="project-title">EEGAgentBench: Benchmarking LLM Agents on Short- and Long-Horizon EEG Analysis</h3>
-      <p class="project-date">2026.05 – 2026.09 <span class="project-status">Under review</span></p>
+      <p class="project-date">2026.05 – 2026.09 <span class="project-status">Submitted to <strong>ICLR 2027</strong></span></p>
       <p class="project-question"><strong><em>Can LLM agents autonomously reason over EEG signals, select appropriate signal-processing tools, and construct effective analysis workflows across diverse tasks?</em></strong></p>
       <p class="project-description">EEGAgentBench evaluates these capabilities through six tasks and 10 deterministic EEG analysis tools, with recordings ranging from 2 seconds to nearly 23 hours. Evaluation of 29 LLMs reveals substantial limitations in sustained evidence accumulation and multi-step reasoning for long-horizon EEG analysis.</p>
       <nav class="project-links" aria-label="eegagentbench resources">
         <a href="https://528why.github.io/EEGAgentBench-Page/" target="_blank" rel="noopener noreferrer"><i class="icon icon-globe" aria-hidden="true"></i>Project Page</a>
         <a href="https://arxiv.org/pdf/2609.31632" target="_blank" rel="noopener noreferrer"><i class="icon icon-paper" aria-hidden="true"></i>Paper</a>
-        <a href="https://huggingface.co/datasets/whhhy123/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><span class="dataset-icon" aria-hidden="true">🤗</span>Dataset</a>
+        <a href="https://huggingface.co/datasets/whhhy123/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><span class="dataset-icon" aria-hidden="true">🤗</span>Dataset <span class="resource-stat">1K+ downloads</span></a>
         <a href="https://github.com/528why/EEGAgentBenchmark" target="_blank" rel="noopener noreferrer"><i class="icon icon-github" aria-hidden="true"></i>Code</a>
       </nav>
     </div>
@@ -128,7 +132,7 @@ redirect_from:
     </a>
     <div class="project-text">
       <h3 class="project-title">MaLoRA: Mitigating Text-Centric Bias in Multimodal Large Language Models through Key-Space Alignment</h3>
-      <p class="project-date">2025.10 – 2026.01 <span class="project-status">Under review</span></p>
+      <p class="project-date">2025.10 – 2026.01 <span class="project-status">Submitted to <strong>ICLR 2027</strong></span></p>
       <p class="project-question"><strong><em>We hypothesize that text-centric bias stems from key-space distribution misalignment in decoder self-attention.</em></strong></p>
       <p class="project-description">MaLoRA combines modality-aware gated key adaptation, multi-kernel MMD alignment, and Gram-reference regularization to reduce cross-modal discrepancy while preserving modality-specific geometry. Across multiple MLLM backbones, it improves robustness to text-dominant failures, with its clearest gains on hallucination-sensitive benchmarks.</p>
       <nav class="project-links" aria-label="malora resources">
@@ -156,11 +160,11 @@ redirect_from:
   <section aria-labelledby="-internships">
     <div class="section-heading"><h2 id="-internships">Experience</h2></div>
     <ul class="timeline">
-      <li><span class="institution-mark" aria-hidden="true"><img class="bytedance-mark" src="/images/brands/bytedance.svg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">ByteDance / TikTok Search Tako</strong><p class="position">Search Algorithm Intern</p><time>2026.09 – Present</time></div></li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="bytedance-mark" src="/images/brands/bytedance.svg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">ByteDance</strong><p class="position">Search Algorithm Intern</p><time>2026.09 – Present</time></div></li>
 
-      <li><span class="institution-mark" aria-hidden="true"><img class="xiaohongshu-mark" src="/images/brands/xiaohongshu.svg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">Xiaohongshu (Beijing)</strong><p class="position">Search Algorithm Intern</p><time>2025.10 – 2026.09</time></div></li>
+      <li><span class="institution-mark" aria-hidden="true"><img class="xiaohongshu-mark" src="/images/brands/xiaohongshu.svg" alt="" width="64" height="56" loading="lazy"></span><div><strong class="institution">Xiaohongshu</strong><p class="position">Search Algorithm Intern</p><time>2025.10 – 2026.09</time></div></li>
 
-      <li><span class="institution-mark" aria-hidden="true"><span class="tsinghua-seal"><img class="tsinghua-mark" src="/images/brands/tsinghua-seal.jpg" alt="" width="1400" height="600" loading="lazy"></span></span><div><a class="institution" href="https://ml.cs.tsinghua.edu.cn/projects.html" target="_blank" rel="noopener noreferrer">Tsinghua University · TSAIL</a><p class="position">Intern</p><time>2024.08 – 2025.09</time></div></li>
+      <li><span class="institution-mark" aria-hidden="true"><span class="tsinghua-seal"><img class="tsinghua-mark" src="/images/brands/tsinghua-seal.jpg" alt="" width="1400" height="600" loading="lazy"></span></span><div><a class="institution" href="https://ml.cs.tsinghua.edu.cn/projects.html" target="_blank" rel="noopener noreferrer">Tsinghua University</a><p class="position">TSAIL · Intern</p><time>2024.08 – 2025.09</time></div></li>
 
       <li><span class="institution-mark" aria-hidden="true"><img class="" src="/images/brands/nus.png" alt="" width="64" height="56" loading="lazy"></span><div><a class="institution" href="https://iora.nus.edu.sg/" target="_blank" rel="noopener noreferrer">National University of Singapore</a><p class="position">Research Assistant · Institute of Operations Research and Analytics</p><time>2023.12 – 2024.04</time></div></li>
 
@@ -184,6 +188,10 @@ redirect_from:
 
   <section aria-labelledby="-honors-and-awards"><div class="section-heading"><h2 id="-honors-and-awards">Honors &amp; Awards</h2></div><ul class="compact-list">
 
+    <li><time>2025</time>Outstanding Graduate of Sichuan Province.</li>
+
+    <li><time>2025</time>Outstanding Graduate of Sichuan University.</li>
+
     <li><time>2024.10</time>Huang Qianheng Scholarship.</li>
 
     <li><time>2023.06</time>Champion, 3rd Youth Campus Volleyball League of Sichuan Province.</li>
@@ -195,7 +203,7 @@ redirect_from:
   </ul></section>
   <section aria-labelledby="-academic-services"><div class="section-heading"><h2 id="-academic-services">Academic Services</h2></div>
 
-    <p class="service-copy"><strong>Conference Reviewer:</strong> IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026, ICME 2026, ACMMM 2026</p>
+    <p class="service-copy"><strong>Conference Reviewer:</strong> IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026, ICME 2026, ACMMM 2026, AAAI 2027, ICLR 2027</p>
 
     <p class="service-copy"><strong>Journal Reviewer:</strong> IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS), Journal of Supercomputing</p>
 
@@ -203,5 +211,46 @@ redirect_from:
 </div>
 <section class="home-section visitor-map" aria-labelledby="-visitor-map">
   <div class="section-heading"><h2 id="-visitor-map">Visitor Map</h2></div>
-  <script id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=7em4cMIIWlwnjcm-0tJhSO8vrChpSZvg-YeTEIOwS44&amp;cl=ffffff&amp;w=a"></script>
+  <div class="visitor-map-stage" id="visitor-map-stage">
+    <span class="visitor-map-anchor" id="_wau_huyu528why" aria-hidden="true"></span>
+    <p class="visitor-map-loading" aria-live="polite">Loading visitor map&hellip;</p>
+  </div>
+  <script>
+    (function () {
+      var stage = document.getElementById('visitor-map-stage');
+      var section = stage.closest('.visitor-map');
+      var width = Math.max(280, Math.min(900, Math.floor(stage.clientWidth)));
+      var height = Math.round(width / 2);
+      var resolved = false;
+
+      window._wau = window._wau || [];
+      window._wau_opt = Object.assign({}, window._wau_opt, { target: '_blank' });
+      window._wau.push(['map', 'huyu528why', '_huyu528why', String(width), String(height), 'dashmap', 'default-red']);
+
+      var observer = new MutationObserver(function () {
+        var image = stage.querySelector('img[src*="widgets.amung.us/mapbacks"]');
+        if (!image) return;
+
+        resolved = true;
+        image.alt = 'World map showing approximate visitor locations';
+        section.classList.remove('is-unavailable');
+        stage.classList.add('is-ready');
+        observer.disconnect();
+      });
+      observer.observe(stage, { childList: true, subtree: true });
+
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://waust.at/m.js';
+      script.onerror = function () {
+        section.classList.add('is-unavailable');
+        observer.disconnect();
+      };
+      stage.appendChild(script);
+
+      window.setTimeout(function () {
+        if (!resolved) section.classList.add('is-unavailable');
+      }, 8000);
+    }());
+  </script>
 </section>
